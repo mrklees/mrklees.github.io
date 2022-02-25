@@ -3,6 +3,8 @@ layout: single
 ---
 
 <div class="gallery">
-  {{ content }}
-  {% include gallery caption=page.caption %}
+  {% if page.description %}
+    <p>{{ page.description }}</p>
+  {% endif %}
+  {% include gallery %}
 </div>
