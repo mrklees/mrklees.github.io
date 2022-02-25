@@ -3,6 +3,8 @@
 ---
 
 @charset "utf-8";
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
 
 .gallery figure {
     margin: 1em;
@@ -14,15 +16,23 @@ figcaption .mfp-bottom-bar .mfp-counter {
 }
 
 .index-feature-row .feature__wrapper .archive__item-teaser {
-    // Hack to make image a square
-    height: 0;
-    padding-bottom: 100%;
+    // Make images square in in a row
+    @include breakpoint($small) {
+        height: 0;
+        padding-bottom: 100%;
+    }
 }
 
 .index-feature-row .btn--primary {
     color: #223;
 }
 
+.soundcloud-player {
+    width: $medium;
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
+    @include breakpoint(max-width $medium) {
+        // On small screens use 100% width
+        width: 100%;
+    }
+}
+
