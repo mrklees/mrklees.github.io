@@ -4,8 +4,6 @@ main:
     url: /about/
   - title: "Blog"
     url: /blog/
-  - title: "Art Gallery"
-    url: /gallery/
   - title: "Inspiration"
     url: /inspiration/
   - title: "Quick-Start Guide"
