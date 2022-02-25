@@ -1,5 +1,4 @@
 ---
-layout: posts
 permalink: /about/
-title: "About"
+title: "About Us"
 ---
