@@ -5,40 +5,63 @@ import sys
 
 BASE_URL = "https://static.cloudygo.com/static/"
 
-def photos_to_gallery(gallery_name, url_path, paths):
-    output_file = "_pages/" + gallery_name.replace(".md", "") + ".md"
-    with open(output_file, "w") as f:
-        f.write(f"""\
+GALLERY_HEADER = """\
 ---
-permalink: /{gallery_name}/
-title: "{gallery_name.title()}"
+permalink: /{}/
+title: "{}"
 layout: gallery
 
 gallery:\
-""")
+"""
 
-        # XXX: consider filtering to jpg / png
-        for path in paths:
-            if "_thumb" in path: continue
-            parts = os.path.splitext(path)
-            thumbnail_path = parts[0] + "_thumb" + parts[1]
-            thumbnail_url = os.path.join(BASE_URL, url_path, thumbnail_path)
-            url = os.path.join(BASE_URL, url_path, path)
-
-            f.write(f"""
-  - image_path: {thumbnail_url}
-    url: {url}
-    alt: "{path}"
+GALLERY_ITEM = """
+  - image_path: {}
+    url: {}
+    alt: "{}"
     title: ""\
 """)
 
-        f.write("""
+GALLERY_FOOTER = """
 ---
+"""
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
-""")
+def thumbnail_name(path):
+    """
+    Get the path of for the thumbail of path
+
+    The nautilus script adds "_thumb" after the name but before the ext.
+    """
+    parts = os.path.splitext(path)
+    return parts[0] + "_thumb" + parts[1]
+
+def photos_to_gallery(gallery_name, url_path, paths):
+    set_paths = set(paths)
+    no_thumbnails = []
+
+    output_file = "_pages/" + gallery_name.replace(".md", "") + ".md"
+    with open(output_file, "w") as f:
+        f.write(GALLERY_HEADER.format(
+            gallery_name.lower(), gallery_name.title()))
+
+        for path in paths:
+            thumbnail = thmbnail_name(path)
+            # thumbnail won't exist for videos, ...
+            if thumbnail not in set_paths:
+                no_thumbnails.append(path)
+                continue
+
+            thumbnail_url = os.path.join(BASE_URL, url_path, thumbnail)
+            url = os.path.join(BASE_URL, url_path, path)
+
+            f.write(GALLERY_ITEM.format(thumbnail_url, url, path))
+
+        f.write(GALLERY_FOOTER)
 
     print("Saved to", gallery_name)
+    print("Skipped", len(no_thumbnails), "items without thumbnails")
+    for p in no_thumbnails:
+        print("\t", p)
+
 
 
 if __name__ == "__main__":
