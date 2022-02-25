@@ -24,11 +24,11 @@
       <a href="{{ img.url | relative_url }}"
         {% if img.title %}title="{{ img.title }}"{% endif %}>
           <img src="{{ img.image_path | relative_url }}"
-               alt="{% if img.alt %}{{ img.alt }}{% endif %}">
+           {% if img.alt or img.title %}alt="{{ img.alt | append: img.title }}"{% endif %}>
       </a>
     {% else %}
       <img src="{{ img.image_path | relative_url }}"
-           alt="{% if img.alt %}{{ img.alt }}{% endif %}">
+           {% if img.alt or img.title %}alt="{{ img.alt | append: img.title }}"{% endif %}>
     {% endif %}
   {% endfor %}
   {% if include.caption %}
