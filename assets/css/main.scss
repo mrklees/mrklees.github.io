@@ -4,5 +4,11 @@
 
 @charset "utf-8";
 
+.gallery figure {
+        margin-left: 2em;
+        margin-right: 2em;
+}
+
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
