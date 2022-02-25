@@ -6,8 +6,6 @@ main:
     url: /blog/
   - title: "Inspiration"
     url: /inspiration/
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
