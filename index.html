@@ -5,17 +5,40 @@ header:
   overlay_color: "#5e616c"
   overlay_image: https://static.cloudygo.com/static/Critical Theme Camp - Inspiration/Kaylie art brunch.jpg
 excerpt: Exploring beauty through art and sound
+
+feature_row:
+  - image_path: "https://static.cloudygo.com/static/Critical%20Theme%20Camp%20-%20Inspiration/IMG_20191019_001756.jpg"
+    alt: "Photo of a painting that inspires us"
+    title: "Inspiring painting"
+    excerpt: |
+      Art, People, and Events that give us motivation and inspiration
+    url: "/inspiration"
+    btn_label: "Explore our Inspiration"
+    btn_class: "btn--info"
+  - image_path:  https://raw.githubusercontent.com/sethtroisi/visual-experiments/main/day3/Blue%20Ball.png
+    alt: "Generative Fractal Flame - Blue Ball"
+    title: "Generative Art"
+    excerpt: |
+      Follow along as we programmatically discover beauty in Fractals
+      Primarily using Fractorium, Processing, and Python
+    url: "/generative_art_2022"
+    btn_label: "Generative Art"
+    btn_class: "btn--info"
+  - image_path: https://static.cloudygo.com/static/Misc/Haus_Anima_256.jpg
+    alt: "Anima Haus Logo"
+    title: "Music and Sounds from Anima"
+    excerpt: |
+      A sampling of the sounds we've made here at Anima.
+      A brief history of our musical backgrounds.
+    url: "/music"
+    btn_label: "Listen into the Mood of Haus Anima"
+    btn_class: "btn--info"
 ---
 
 <h3 class="archive__subtitle">Some of our adventures</h3>
 
-<div style="display: inline-block">
-{% for page in site.pages %}
-  {% if page.tags contains "Main" %}
-    {% assign post = page %}
-    {% include archive-single.html type="grid" %}
-  {% endif %}
-{% endfor %}
+<div class="index-feature-row">
+  {% include feature_row %}
 </div>
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
