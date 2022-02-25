@@ -6,6 +6,8 @@ main:
     url: /about/
   - title: "Art Gallery"
     url: /gallery/
+  - title: "Inspiration"
+    url: /inspiration/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
