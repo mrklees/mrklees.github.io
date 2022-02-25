@@ -3,14 +3,17 @@ permalink: /inspiration/
 title: "Inspiration"
 description: "Some inspiration and works in progress"
 layout: gallery
+header:
+  overlay_color: "#5e616c"
+  overlay_image: https://static.cloudygo.com/static/Critical%20Theme%20Camp%20-%20Inspiration/IMG_20191019_001756.jpg
 
 gallery:
 # Top four
   - image_path: https://static.cloudygo.com/static/Critical Theme Camp - Inspiration/2018-08-27 at 18-17-23_thumb.jpg
     url: https://static.cloudygo.com/static/Critical Theme Camp - Inspiration/2018-08-27 at 18-17-23.jpg
     title: "Seth & Hannah at BM 2018"
-  - image_path: https://static.cloudygo.com/static/Critical Theme Camp - Inspiration/Kaylie art brunch_thumb.jpg
-    url: https://static.cloudygo.com/static/Critical Theme Camp - Inspiration/Kaylie art brunch.jpg
+  - image_path: https://static.cloudygo.com/static/Critical Theme Camp - Inspiration/Kalesta art brunch_thumb.jpg
+    url: https://static.cloudygo.com/static/Critical Theme Camp - Inspiration/Kalesta art brunch.jpg
     title: "Kalesta painting at Art Brunch"
   - image_path: https://static.cloudygo.com/static/Critical Theme Camp - Inspiration/PXL_20211228_221640695_thumb.jpg
     url: https://static.cloudygo.com/static/Critical Theme Camp - Inspiration/PXL_20211228_221640695.jpg
@@ -62,8 +65,8 @@ gallery:
     title: "Art"
 
 # Active Painting
-  - image_path: https://static.cloudygo.com/static/Critical Theme Camp - Inspiration/Erin Loren Seth art brunch_thumb.jpg
-    url: https://static.cloudygo.com/static/Critical Theme Camp - Inspiration/Erin Loren Seth art brunch.jpg
+  - image_path: https://static.cloudygo.com/static/Critical Theme Camp - Inspiration/E L S art brunch_thumb.jpg
+    url: https://static.cloudygo.com/static/Critical Theme Camp - Inspiration/E L S art brunch.jpg
     title: "Art Brunch 2020"
   - image_path: https://static.cloudygo.com/static/Critical Theme Camp - Inspiration/PXL_20220117_025622659_thumb.jpg
     url: https://static.cloudygo.com/static/Critical Theme Camp - Inspiration/PXL_20220117_025622659.jpg
