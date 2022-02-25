@@ -19,13 +19,13 @@ GALLERY_ITEM = """
     url: {}
     alt: "{}"
     title: ""\
-""")
+"""
 
 GALLERY_FOOTER = """
 ---
 """
 
-def thumbnail_name(path):
+def get_thumbnail_name(path):
     """
     Get the path of for the thumbail of path
 
@@ -44,10 +44,11 @@ def photos_to_gallery(gallery_name, url_path, paths):
             gallery_name.lower(), gallery_name.title()))
 
         for path in paths:
-            thumbnail = thmbnail_name(path)
+            thumbnail = get_thumbnail_name(path)
             # thumbnail won't exist for videos, ...
             if thumbnail not in set_paths:
-                no_thumbnails.append(path)
+                if "_thumb" not in path:
+                    no_thumbnails.append(path)
                 continue
 
             thumbnail_url = os.path.join(BASE_URL, url_path, thumbnail)
@@ -58,9 +59,10 @@ def photos_to_gallery(gallery_name, url_path, paths):
         f.write(GALLERY_FOOTER)
 
     print("Saved to", gallery_name)
-    print("Skipped", len(no_thumbnails), "items without thumbnails")
-    for p in no_thumbnails:
-        print("\t", p)
+    if no_thumbnails:
+        print("Skipped", len(no_thumbnails), "items without thumbnails")
+        for p in no_thumbnails:
+            print("\t", p)
 
 
 
