@@ -4,18 +4,6 @@ title: "Inspiration"
 layout: gallery
 
 gallery:
-  - image_path: https://static.cloudygo.com/static/Critical Theme Camp - Inspiration/IMG_6056_thumb.heic
-    url: https://static.cloudygo.com/static/Critical Theme Camp - Inspiration/IMG_6056.heic
-    alt: "IMG_6056.heic"
-    title: ""
-  - image_path: https://static.cloudygo.com/static/Critical Theme Camp - Inspiration/VID_20191019_190409_LS_thumb.mp4
-    url: https://static.cloudygo.com/static/Critical Theme Camp - Inspiration/VID_20191019_190409_LS.mp4
-    alt: "VID_20191019_190409_LS.mp4"
-    title: ""
-  - image_path: https://static.cloudygo.com/static/Critical Theme Camp - Inspiration/image_thumb.png
-    url: https://static.cloudygo.com/static/Critical Theme Camp - Inspiration/image.png
-    alt: "image.png"
-    title: ""
   - image_path: https://static.cloudygo.com/static/Critical Theme Camp - Inspiration/IMG_20191019_001756_thumb.jpg
     url: https://static.cloudygo.com/static/Critical Theme Camp - Inspiration/IMG_20191019_001756.jpg
     alt: "IMG_20191019_001756.jpg"
@@ -68,25 +56,13 @@ gallery:
     url: https://static.cloudygo.com/static/Critical Theme Camp - Inspiration/PXL_20210712_033827938.jpg
     alt: "PXL_20210712_033827938.jpg"
     title: ""
-  - image_path: https://static.cloudygo.com/static/Critical Theme Camp - Inspiration/PXL_20210712_033830470~2_thumb.mp4
-    url: https://static.cloudygo.com/static/Critical Theme Camp - Inspiration/PXL_20210712_033830470~2.mp4
-    alt: "PXL_20210712_033830470~2.mp4"
-    title: ""
   - image_path: https://static.cloudygo.com/static/Critical Theme Camp - Inspiration/IMG_20190712_192023_thumb.jpg
     url: https://static.cloudygo.com/static/Critical Theme Camp - Inspiration/IMG_20190712_192023.jpg
     alt: "IMG_20190712_192023.jpg"
     title: ""
-  - image_path: https://static.cloudygo.com/static/Critical Theme Camp - Inspiration/test_thumb.mp4
-    url: https://static.cloudygo.com/static/Critical Theme Camp - Inspiration/test.mp4
-    alt: "test.mp4"
-    title: ""
   - image_path: https://static.cloudygo.com/static/Critical Theme Camp - Inspiration/20180603_191059_thumb.jpg
     url: https://static.cloudygo.com/static/Critical Theme Camp - Inspiration/20180603_191059.jpg
     alt: "20180603_191059.jpg"
-    title: ""
-  - image_path: https://static.cloudygo.com/static/Critical Theme Camp - Inspiration/IMG_6056_thumb.mov
-    url: https://static.cloudygo.com/static/Critical Theme Camp - Inspiration/IMG_6056.mov
-    alt: "IMG_6056.mov"
     title: ""
   - image_path: https://static.cloudygo.com/static/Critical Theme Camp - Inspiration/PXL_20211221_103801637_thumb.jpg
     url: https://static.cloudygo.com/static/Critical Theme Camp - Inspiration/PXL_20211221_103801637.jpg
@@ -106,4 +82,3 @@ gallery:
     title: ""
 ---
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
