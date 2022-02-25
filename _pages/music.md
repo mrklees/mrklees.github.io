@@ -10,3 +10,7 @@ Anima produces many sounds in many flavors
 From 2021 "In The Rain" is an early Lilac production
 
 <iframe width="70%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1020119308&auto_play=false&show_artwork=true&visual=true"></iframe>
+
+"Ambient Bonus" was part of Lilac's debuted (friends and family only) 2021 X-Mas album.
+
+<audio controls src="https://static.cloudygo.com/static/Music/2021%20X-Mas%20Unmastered/Ambient%20bonus.mp3">
