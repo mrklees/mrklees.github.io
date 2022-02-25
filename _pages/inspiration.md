@@ -2,10 +2,12 @@
 permalink: /inspiration/
 title: "Inspiration"
 description: "Some inspiration and works in progress"
+tags: Main
 layout: gallery
 header:
   overlay_color: "#5e616c"
   overlay_image: https://static.cloudygo.com/static/Critical%20Theme%20Camp%20-%20Inspiration/IMG_20191019_001756.jpg
+  teaser: https://static.cloudygo.com/static/Critical%20Theme%20Camp%20-%20Inspiration/IMG_20191019_001756.jpg
 
 gallery:
 # Top four

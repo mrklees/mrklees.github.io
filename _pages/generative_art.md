@@ -2,9 +2,11 @@
 permalink: /generative_art_2022/
 title: "Generative Art"
 description: "The Search for Beauty"
+tags: Main
 layout: single
 header:
   overlay_image: https://raw.githubusercontent.com/sethtroisi/visual-experiments/main/day3/Blue%20Ball.png
+  teaser: https://raw.githubusercontent.com/sethtroisi/visual-experiments/main/day3/Blue%20Ball.png
 ---
 
 Working towards [Reignition](/events/reignition/) We've produced a number of generative pieces.

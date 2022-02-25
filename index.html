@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 hidden: true
 header:
   overlay_color: "#5e616c"
@@ -7,12 +7,16 @@ header:
 excerpt: Exploring beauty through art and sound
 ---
 
-Some of our adventures
-<ul>
-  <li><a href="/inspiration">Inspiration</a></li>
-  <li><a href="/music">Music</a></li>
-  <li><a href="/generative_art_2022">Generative Art</a></li>
-</ul>
+<h3 class="archive__subtitle">Some of our adventures</h3>
+
+<div style="display: inline-block">
+{% for page in site.pages %}
+  {% if page.tags contains "Main" %}
+    {% assign post = page %}
+    {% include archive-single.html type="grid" %}
+  {% endif %}
+{% endfor %}
+</div>
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
@@ -25,7 +29,7 @@ Some of our adventures
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 <div class="entries-{{ entries_layout }}">
   {% for post in posts %}
-    {% include archive-single.html type=entries_layout %}
+    {% include archive-single.html type="entries_layout" %}
   {% endfor %}
 </div>
 
