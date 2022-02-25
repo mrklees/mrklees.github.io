@@ -8,6 +8,11 @@
     margin: 1em;
 }
 
+figcaption .mfp-bottom-bar,
+figcaption .mfp-bottom-bar .mfp-counter {
+    font-size: 20px;
+}
+
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
