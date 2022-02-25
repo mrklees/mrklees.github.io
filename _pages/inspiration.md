@@ -1,6 +1,7 @@
 ---
 permalink: /inspiration/
 title: "Inspiration"
+description: "Some inspiration and works in progress"
 layout: gallery
 
 gallery:
