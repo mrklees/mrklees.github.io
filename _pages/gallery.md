@@ -10,21 +10,29 @@ tags: >
     Main
     Art
 header:
-  overlay_image: https://static.cloudygo.com/static/Anima Gallery/IMG_0257.jpg
-  teaser: https://static.cloudygo.com/static/Anima Gallery/IMG_0257.jpg
-
+  overlay_image: https://static.cloudygo.com/static/Gallery/Dragon - Coral Dragon - L.jpg
+  teaser: https://static.cloudygo.com/static/Gallery/Dragon - Coral Dragon - L.jpg
 
 gallery:
-  - image_path: https://static.cloudygo.com/static/Anima Gallery/IMG_0256_thumb.jpg
-    url: https://static.cloudygo.com/static/Anima Gallery/IMG_0256.jpg
-    title: "Waves"
-  - image_path: https://static.cloudygo.com/static/Anima Gallery/IMG_0257_thumb.jpg
-    url: https://static.cloudygo.com/static/Anima Gallery/IMG_0257.jpg
-    title: "Dragon"
-  - image_path: https://static.cloudygo.com/static/Anima Gallery/IMG_0259_thumb.jpg
-    url: https://static.cloudygo.com/static/Anima Gallery/IMG_0259.jpg
-    title: "Blue"
-  - image_path: https://static.cloudygo.com/static/Anima Gallery/PXL_20210712_034059750_thumb.jpg
-    url: https://static.cloudygo.com/static/Anima Gallery/PXL_20210712_034059750.jpg
+  - image_path: "https://static.cloudygo.com/static/Gallery/Fish - L_thumb.jpg"
+    url: "https://static.cloudygo.com/static/Gallery/Fish - L.jpg"
+    title: "Fish by Loren"
+  - image_path: "https://static.cloudygo.com/static/Gallery/Dragon - Coral Dragon - L_thumb.jpg"
+    url: "https://static.cloudygo.com/static/Gallery/Dragon - Coral Dragon - L.jpg"
+    title: "Dragon - Coral Dragon by Loren"
+  - image_path: "https://static.cloudygo.com/static/Gallery/Blues - K_thumb.jpg"
+    url: "https://static.cloudygo.com/static/Gallery/Blues - K.jpg"
+    title: "Blues by Kalesta"
+  - image_path: "https://static.cloudygo.com/static/Gallery/Foil Octopus - L _thumb.jpg"
+    url: "https://static.cloudygo.com/static/Gallery/Foil Octopus - L .jpg"
+    title: "Foil Octopus by Loren"
+  - image_path: "https://static.cloudygo.com/static/Gallery/Triangles - Color Block - Zhigalka_thumb.jpg"
+    url: "https://static.cloudygo.com/static/Gallery/Triangles - Color Block - Zhigalka.jpg"
+    title: "Triangles - Color Block by Zhigalka"
+  - image_path: "https://static.cloudygo.com/static/Gallery/ARE we Clouds - Zhigalka_thumb.jpg"
+    url: "https://static.cloudygo.com/static/Gallery/ARE we Clouds - Zhigalka.jpg"
+    title: "ARE we Clouds by Zhigalka"
+  - image_path: "https://static.cloudygo.com/static/Gallery/Destruction of Capatalism - Zhigalka_thumb.jpg"
+    url: "https://static.cloudygo.com/static/Gallery/Destruction of Capatalism - Zhigalka.jpg"
     title: "Destruction of the human race as an inevitable consequence of our nearsighted pursuit of capitalism"
 ---

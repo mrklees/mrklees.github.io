@@ -3,7 +3,7 @@ permalink: /about/
 title: "About Us"
 layout: single
 header:
-  overlay_image: "https://static.cloudygo.com/static/Misc/Haus_Anima_256.jpg"
+  overlay_image: "https://static.cloudygo.com/static/Misc/Haus%20Anima%20Fractal_256.jpg"
 ---
 
 <style>
