@@ -1,7 +1,10 @@
 ---
 permalink: /gallery/
 title: "Gallery"
-description: "Haus Anima's Art Gallery - Tours by RSVP"
+description: |
+    Haus Anima's Art Gallery
+    <br>
+    Tours by Appointment
 layout: gallery
 tags: >
     Main
