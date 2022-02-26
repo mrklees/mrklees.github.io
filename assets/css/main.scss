@@ -10,9 +10,19 @@
     margin: 1em;
 }
 
-figcaption .mfp-bottom-bar,
+.mfp-figure .mfp-close {
+    padding-top: 0.25em;
+    font-size: 300%;
+}
+
+figcaption .mfp-bottom-bar .mfp-title,
 figcaption .mfp-bottom-bar .mfp-counter {
-    font-size: 20px;
+    font-size: 200%;
+    padding-top: 0.5em;
+}
+
+figcaption .mfp-title {
+    padding-right: 2.5em;
 }
 
 .index-feature-row .feature__wrapper .archive__item-teaser {
