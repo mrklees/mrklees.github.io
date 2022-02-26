@@ -6,6 +6,10 @@ main:
     url: /blog/
   - title: "Inspiration"
     url: /inspiration/
+  - title: "Gallery"
+    url: /gallery/
+  - title: "Music"
+    url: /music/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
