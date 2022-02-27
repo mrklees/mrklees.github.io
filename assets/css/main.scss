@@ -46,3 +46,17 @@ figcaption .mfp-title {
     }
 }
 
+
+@include breakpoint(min-width $medium) {
+   .half-width-videos .responsive-video-container {
+        display: inline-block;
+
+        width: calc(50% - 1em);
+        // This is used to control their aspect ratio
+        padding-bottom: calc(28.25% - 1em);
+   }
+
+   .half-width-videos .responsive-video-container:not(:first-child) {
+        margin-left: 1em;
+   }
+}
