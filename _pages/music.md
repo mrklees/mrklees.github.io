@@ -18,4 +18,4 @@ From 2021 "In The Rain" is an early Lilac production
 
 "Ambient Bonus" was part of Lilac's debuted (friends and family only) 2021 X-Mas album.
 
-<audio controls src="https://static.cloudygo.com/static/Music/2021%20X-Mas%20Unmastered/Ambient%20bonus.mp3">
+<iframe class="soundcloud-player" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1182398776&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
