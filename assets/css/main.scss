@@ -27,7 +27,7 @@ figcaption .mfp-title {
 
 .index-feature-row .feature__wrapper .archive__item-teaser {
     // Make images square in in a row
-    @include breakpoint($small) {
+    @include breakpoint($large) {
         height: 0;
         padding-bottom: 100%;
     }
@@ -38,14 +38,13 @@ figcaption .mfp-title {
 }
 
 .soundcloud-player {
-    width: $medium;
+    // On small screens use 100% width
+    width: 100%;
 
-    @include breakpoint(max-width $medium) {
-        // On small screens use 100% width
-        width: 100%;
+    @include breakpoint($large) {
+        width: 50%;
     }
 }
-
 
 @include breakpoint(min-width $medium) {
    .half-width-videos .responsive-video-container {
