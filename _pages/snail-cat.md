@@ -46,5 +46,5 @@ gallery:
   - image_path: "https://static.cloudygo.com/static/Snail/Snail looking in fishtank_thumb.jpg"
     url: "https://static.cloudygo.com/static/Snail/Snail looking in fishtank.jpg"
     alt: "Snail looking in fishtank.jpg"
-    title: 'Snail on the prowl for a "friend"'
+    title: "Snail on the prowl for a &quot;friend&quot;"
 ---
