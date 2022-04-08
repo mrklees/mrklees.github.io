@@ -14,4 +14,6 @@ if __name__ == "__main__":
         d = f.readlines()
 
     front = "".join(d[:d.index("---\n", 1)])
-    assert yaml.safe_load(front)
+    loaded = yaml.safe_load(front)
+    assert loaded
+    print(loaded)
