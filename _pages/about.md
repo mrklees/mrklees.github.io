@@ -48,13 +48,13 @@ html .page__hero--overlay {
 </div>
 {% endcomment %}
 
-We are the creators of the Anima Gallery/Club/Cafe.  We come from a variety of backgrounds and experiences, but are united in our love of the sensory experience.
+We are the creators of the Haus Anima.  We come from a variety of backgrounds and experiences, but are united in our love of the sensory experience.
 
 Our collective includes
 
 **Zhigalka** - A professional artist working largely on the visual side of our A/V art. They love to work in God's programming language, Python.
 
-**Lilac** - A musician doing the audio side of our A/V art. They work with VCV Rack, Bitwig, and occasionally other tools to make noise.
+**Lilac** - An alchemist hailing from the deep forests for the Pacific Northwest, Lilac 
 
 <div class="portrait-row">
   <img class="portrait" src="https://static.cloudygo.com/static/Misc/lilac_profile.jpg" alt="Lilac" />
