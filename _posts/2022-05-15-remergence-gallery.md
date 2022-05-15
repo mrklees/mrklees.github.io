@@ -1,5 +1,4 @@
 ---
-permalink: /remergence/
 title: "Reiginition 2022: Remergence"
 layout: gallery
 categories:
