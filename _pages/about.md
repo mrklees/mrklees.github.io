@@ -50,11 +50,13 @@ html .page__hero--overlay {
 
 We are the creators of the Haus Anima.  We come from a variety of backgrounds and experiences, but are united in our love of the sensory experience.
 
-Our collective includes
+Our collective includes:
 
-**Zhigalka** - A professional artist working largely on the visual side of our A/V art. They love to work in God's programming language, Python.
+**Zhigalka** - A professional artist working largely on the visual side of our A/V art. They love to work in God's programming language, Python. 
 
-**Lilac** - An alchemist hailing from the deep forests for the Pacific Northwest, Lilac 
+**Kalesta** - Kalesta is a visual artist who wants to make art accessible and fulfilling for as many people as possible. Creating art with others and facilitating artistic exploration is one of her favorite pastimes. They also enjoy all things mycological, listening to audiobooks at 3x speed, and caring for the small but growing collection of plants in the Haus Anima conservatory. 
+
+**Li☿️ac** - An alchemist hailing from the deep forests for the Pacific Northwest, Li☿️ac is a student of the cosmos, a musician devoted to the transformative power of sound, and a brewer of mind-bending elixers.
 
 <div class="portrait-row">
   <img class="portrait" src="https://static.cloudygo.com/static/Misc/lilac_profile.jpg" alt="Lilac" />

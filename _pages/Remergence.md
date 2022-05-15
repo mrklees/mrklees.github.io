@@ -2,6 +2,10 @@
 permalink: /remergence/
 title: "Remergence"
 layout: gallery
+categories:
+  - Events
+tags:
+  - Events
 
 gallery:
   - image_path: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1349_thumb.jpg
