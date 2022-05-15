@@ -5,6 +5,9 @@ categories:
   - Events
 tags:
   - Events
+header:
+  overlay_color: "#5e616c"
+  overlay_image: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1386.jpg
 
 gallery:
   - image_path: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1351_thumb.jpg
