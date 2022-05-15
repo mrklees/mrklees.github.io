@@ -1,5 +1,5 @@
 ---
-title: "Reiginition 2022: Remergence"
+title: "Reiginition 2022: Remergence Gallery"
 layout: gallery
 categories:
   - Events
