@@ -24,10 +24,6 @@ gallery:
     url: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1365.jpg
     alt: "IMG_1365.jpg"
     title: ""
-  - image_path: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1381_thumb.jpg
-    url: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1381.jpg
-    alt: "IMG_1381.jpg"
-    title: ""
   - image_path: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1386_thumb.jpg
     url: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1386.jpg
     alt: "IMG_1386.jpg"
