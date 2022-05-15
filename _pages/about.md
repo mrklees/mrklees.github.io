@@ -56,7 +56,7 @@ Our collective includes:
 
 **Kalesta** - Kalesta is a visual artist who wants to make art accessible and fulfilling for as many people as possible. Creating art with others and facilitating artistic exploration is one of her favorite pastimes. They also enjoy all things mycological, listening to audiobooks at 3x speed, and caring for the small but growing collection of plants in the Haus Anima conservatory. 
 
-**Li☿️ac** - An alchemist hailing from the deep forests for the Pacific Northwest, Li☿️ac is a student of the cosmos, a musician devoted to the transformative power of sound, and a brewer of mind-bending elixers.
+**Li☿️ac** - An alchemist hailing from the deep forests for the Pacific Northwest, Li☿️ac is a student of the cosmos, a musician devoted to the transformative power of sound, and a brewer of mind-bending elixers. Bitwig, a thermin, and a small collection of hardware synthesizers are their current palette. 
 
 <div class="portrait-row">
   <img class="portrait" src="https://static.cloudygo.com/static/Misc/lilac_profile.jpg" alt="Lilac" />
