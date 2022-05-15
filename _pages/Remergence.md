@@ -1,28 +1,24 @@
 ---
 permalink: /remergence/
-title: "Remergence"
+title: "Reiginition 2022: Remergence"
 layout: gallery
 
 gallery:
-  - image_path: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1349_thumb.jpg
-    url: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1349.jpg
-    alt: "IMG_1349.jpg"
+  - image_path: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1351_thumb.jpg
+    url: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1351.jpg
+    alt: "IMG_1351.jpg"
+    title: ""
+  - image_path: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1369_thumb.jpg
+    url: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1369.jpg
+    alt: "IMG_1369.jpg"
     title: ""
   - image_path: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1375_thumb.jpg
     url: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1375.jpg
     alt: "IMG_1375.jpg"
     title: ""
-  - image_path: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1389_thumb.jpg
-    url: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1389.jpg
-    alt: "IMG_1389.jpg"
-    title: ""
-  - image_path: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1351_thumb.jpg
-    url: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1351.jpg
-    alt: "IMG_1351.jpg"
-    title: ""
-  - image_path: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1390_thumb.jpg
-    url: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1390.jpg
-    alt: "IMG_1390.jpg"
+  - image_path: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1365_thumb.jpg
+    url: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1365.jpg
+    alt: "IMG_1365.jpg"
     title: ""
   - image_path: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1381_thumb.jpg
     url: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1381.jpg
@@ -32,9 +28,9 @@ gallery:
     url: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1386.jpg
     alt: "IMG_1386.jpg"
     title: ""
-  - image_path: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1365_thumb.jpg
-    url: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1365.jpg
-    alt: "IMG_1365.jpg"
+  - image_path: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1355_thumb.jpg
+    url: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1355.jpg
+    alt: "IMG_1355.jpg"
     title: ""
   - image_path: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/PXL_20220515_050027432_thumb.jpg
     url: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/PXL_20220515_050027432.jpg
@@ -44,20 +40,16 @@ gallery:
     url: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1366.jpg
     alt: "IMG_1366.jpg"
     title: ""
-  - image_path: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1361_thumb.jpg
-    url: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1361.jpg
-    alt: "IMG_1361.jpg"
-    title: ""
   - image_path: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1377_thumb.jpg
     url: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1377.jpg
     alt: "IMG_1377.jpg"
     title: ""
-  - image_path: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1369_thumb.jpg
-    url: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1369.jpg
-    alt: "IMG_1369.jpg"
+  - image_path: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1389_thumb.jpg
+    url: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1389.jpg
+    alt: "IMG_1389.jpg"
     title: ""
-  - image_path: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1355_thumb.jpg
-    url: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1355.jpg
-    alt: "IMG_1355.jpg"
+  - image_path: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1390_thumb.jpg
+    url: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1390.jpg
+    alt: "IMG_1390.jpg"
     title: ""
 ---
