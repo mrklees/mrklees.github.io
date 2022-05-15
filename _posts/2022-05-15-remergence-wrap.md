@@ -24,4 +24,4 @@ The other half of the project, our interative sound & lights exhibit, delighted 
 
 By all measures Remergence 2022 was a great success for Haus Anima, and we're very excited to continue to refine the venture in preparation for our next event at [Critical Northwest](https://criticalnw.org/)!
 
-[There a lots of pictures availabe in a gallery.](/_pages/Remergence.md)
+{% include_relative 2022-05-15-remergence-gallery.md %}
