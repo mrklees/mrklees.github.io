@@ -58,6 +58,8 @@ Our collective includes:
 
 **Li☿️ac** - An alchemist hailing from the deep forests for the Pacific Northwest, Li☿️ac is a student of the cosmos, a musician devoted to the transformative power of sound, and a brewer of mind-bending elixers. Bitwig, a thermin, and a small collection of hardware synthesizers are their current palette. 
 
+Interested in collaborating? We're really excited about working on art of many kinds.  Feel free to reach out to us at [lilac@anima.haus]("mailto:lilac@anima.haus?subject=Let's Collaborate!")
+
 <div class="portrait-row">
   <img class="portrait" src="https://static.cloudygo.com/static/Misc/lilac_profile.jpg" alt="Lilac" />
   <img class="portrait" src="https://static.cloudygo.com/static/Misc/hummingbird_profile.jpg" alt="Zhigalka" />
