@@ -18,7 +18,7 @@ It was a such a joy to see a great deal of fun had with our interactive art exhi
 
 {% raw %}<img src="https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1381.jpg" alt="" class="full">{% endraw %}
 
-The other half of the project, our interative sound & lights exhibit, delighted the many who came by to create cosmic ambiance. 
+The other half of the project, our interative sound & lights exhibit, delighted the many who came by to create cosmic ambiance.
 
 {% raw %}<img src="https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1366.jpg" alt="" class="full">{% endraw %}
 
