@@ -1,6 +1,5 @@
 ---
 title: "Critical 2022"
-permalink: /critical-2022/
 categories:
   - Events
 tags:
