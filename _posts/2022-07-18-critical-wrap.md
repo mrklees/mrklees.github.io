@@ -19,7 +19,7 @@ Our visual artists brought 10 animal panels for collaborative colloaring, 8 ligh
 
 Space Sounds, our interactive A/V project, also made an appearance with some new music and interactions between the sounds and the LED light display. 
 
-The total effect created a chill, ethereal vibe that we felt provided some needed respite from the stimulation of esplanade! 
+The total effect created a chill, ethereal vibe that we felt provided some needed respite from the stimulation of esplanade. 
 
 While this was not our first Burner event it was the first time we've hosted a theme camp and it was so rewarding to meet
 other artists and burners. We were excited to meet several individuals who stopped by each day to see the menagerie unfurl
