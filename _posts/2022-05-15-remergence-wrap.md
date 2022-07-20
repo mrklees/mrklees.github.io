@@ -14,7 +14,7 @@ excerpt: Remergence 2022
 
 In our first public event as a collective we attended Remergence 2022 and had a ton a fun!
 
-It was a such a joy to see a great deal of fun had with our interactive art exhibit *Sounds, Lights and Solar Systems*. Dozens of collaborators of all ages contributed to the solar system, leveraging watercolors, sharpies, and unbridled creativity.
+It was a such a joy to see a great deal of fun had with our interactive art exhibit *Sounds, Lights, and Solar Systems*. Dozens of collaborators of all ages contributed to the solar system, leveraging watercolors, sharpies, and unbridled creativity.
 
 {% raw %}<img src="https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1381.jpg" alt="" class="full">{% endraw %}
 
