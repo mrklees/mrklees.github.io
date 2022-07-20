@@ -17,7 +17,7 @@ Our visual artists brought 10 animal panels for collaborative coloring, 8 light 
 
 <img src="https://static.cloudygo.com/static/Critical%202022/GalleryFinal.jpg" alt="Final Gallery Image" class="full">
 
-Space Sounds, our interactive A/V project, also made an appearance with new music and interactions between the sounds and our LED light display.
+[Space Sounds](https://anima.haus/music/#space-sounds), our interactive A/V project, also made an appearance with new music and interactions between the sounds and our LED light display.
 
 The total effect created a chill, ethereal vibe that we felt provided some needed respite from the stimulation of esplanade!
 
