@@ -1,5 +1,6 @@
 ---
-title: "Reiginition 2022: Remergence Gallery"
+title: "Reignition 2022: Remergence Gallery"
+excerpt: "Gallery of pictures from Haus Anima at Reignition 2022"
 layout: gallery
 categories:
   - Events
