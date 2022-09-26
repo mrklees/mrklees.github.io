@@ -1,6 +1,7 @@
 ---
 title: "Luminata"
 excerpt: "We'll be at Fremont Art Council's Luminata!"
+
 categories:
   - Events
 tags:

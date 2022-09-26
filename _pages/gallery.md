@@ -35,4 +35,5 @@ gallery:
   - image_path: "https://static.cloudygo.com/static/Gallery/Destruction of Capatalism - Zhigalka_thumb.jpg"
     url: "https://static.cloudygo.com/static/Gallery/Destruction of Capatalism - Zhigalka.jpg"
     title: "Destruction of the human race as an inevitable consequence of our nearsighted pursuit of capitalism"
+
 ---

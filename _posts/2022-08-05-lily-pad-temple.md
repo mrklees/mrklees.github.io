@@ -1,5 +1,7 @@
 ---
 title: "Lily Pad Temple under Moon's Light "
+excerpt: Lily Pad Temple Pixel Art
+
 categories:
   - Art
 tags:
@@ -7,7 +9,7 @@ tags:
 header:
   overlay_color: "#336F28"
   overlay_image: https://static.cloudygo.com/static/LilyPad/lilypadtemplebanner.png
-excerpt: Lily Pad Temple Pixel Art
+  teaser: https://static.cloudygo.com/static/LilyPad/lilypadtemplebanner.png
 
 ---
 
