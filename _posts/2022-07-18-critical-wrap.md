@@ -1,5 +1,7 @@
 ---
 title: "Critical 2022"
+excerpt: Critical 2022
+
 categories:
   - Events
 tags:
@@ -7,7 +9,7 @@ tags:
 header:
   overlay_color: "#5e616c"
   overlay_image: https://static.cloudygo.com/static/Critical%202022/CriticalPoster.jpg
-excerpt: Critical 2022
+  teaser: https://static.cloudygo.com/static/Critical%202022/CriticalPoster.jpg
 
 ---
 

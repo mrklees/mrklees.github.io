@@ -1,5 +1,7 @@
 ---
 title: "Remergence 2022 A Success!"
+excerpt: Remergence 2022
+
 categories:
   - Events
 tags:
@@ -8,7 +10,7 @@ tags:
 header:
   overlay_color: "#5e616c"
   overlay_image: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1377.jpg
-excerpt: Remergence 2022
+  teaser: https://static.cloudygo.com/static/ReIgnition 2022 Remergence/IMG_1377.jpg
 
 ---
 
