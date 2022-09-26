@@ -1,0 +1,39 @@
+---
+title: "Illuminated Betta Fish - Luminata 2022 "
+excerpt: "Interactive Illuminated Betta Fish Sculpture at 2022 Luminata!"
+categories:
+  - Events
+tags:
+  - Events
+---
+
+We love [Fremont Arts Council](https://fremontartscouncil.org/).
+They host a celebration for the changing of each season. For the Fall Equinox
+we celebrate [Luminata](https://fremontartscouncil.org/luminata).
+
+For Luminata 2022 Haus Anima created an
+**Interactive Illuminated Betta Fish Sculpture** called "Betta"
+
+[Our complete Luminata 2022 photo album](https://photos.app.goo.gl/3jUfCPXMs2Rhnzkh6)
+
+<div class="half-width-videos">
+  {% include video id="w3dm0u1B92k" provider="youtube" %}
+  {% include video id="tAPId5iPB-4" provider="youtube" %}
+</div>
+
+A more complete write-up should be posted over the next few days!
+
+----
+
+Prototypes!
+
+![Betta Fish prototype inside wireframe](https://static.cloudygo.com/static/BettaFish/Fish_In_Fish.jpg)
+
+Wireframe!
+
+![Betta Fish wireframe](https://static.cloudygo.com/static/BettaFish/Fish_Suspended.jpg)
+
+Camera! Action! Lights!
+
+![Betta Fish with lights](https://static.cloudygo.com/static/BettaFish/Fish_lights_in_progress.jpg)
+
