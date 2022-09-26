@@ -6,6 +6,13 @@ layout: single
 ---
 
 
+Betta Fish
+----------
+
+<div class="half-width-videos">
+{% include video id="w3dm0u1B92k" provider="youtube" %}
+</div>
+
 LED Lights
 ----------
 
