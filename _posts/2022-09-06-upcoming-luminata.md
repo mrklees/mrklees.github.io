@@ -23,13 +23,13 @@ Which includes photos and description of the project!
 
 Prototypes!
 
-![Betta Fish prototype inside wireframe](https://static.cloudygo.com/static/BettaFish/Fish_In_Fish.jpg)
+![Betta Fish prototype inside wireframe](https://static.cloudygo.com/static/BettaFish/1_Fish_In_Fish.jpg)
 
 Wireframe!
 
-![Betta Fish wireframe](https://static.cloudygo.com/static/BettaFish/Fish_Suspended.jpg)
+![Betta Fish wireframe](https://static.cloudygo.com/static/BettaFish/56_prototyping.jpg)
 
 Camera! Action! Lights!
 
-![Betta Fish with lights](https://static.cloudygo.com/static/BettaFish/Fish_lights_in_progress.jpg)
+![Betta Fish with lights](https://static.cloudygo.com/static/BettaFish/204_testing_electronics.jpg)
 
