@@ -2,12 +2,14 @@
 title: "Seacompression 2022 - Haus Anima - Mourning Owl"
 excerpt: "Haus Anima unveils Mourning Owl at Seacompression"
 
-classes: wide
-
 categories:
   - Events
 tags:
   - Events
+header:
+  overlay_color: "#615e6c"
+  overlay_image: https://static.cloudygo.com/static/Seacompression%202022/250%20Mourning%20Owl%20Complete.jpg
+  teaser: https://static.cloudygo.com/static/Seacompression%202022/250%20Mourning%20Owl%20Complete.jpg
 
 ---
 
@@ -52,8 +54,9 @@ As always, it was delightful to see the ways people interacted with and added to
 The construction of Mourning Owl was inspired by a flat-packed plywood LED piece Zhigalka saw at Critical in 2018.
 Lilac produced a soundtrack with owl hoots, a sample from Twin Peaks “Owls are not what they seem”, along with all their usual music goodness.
 
-<iframe class="soundcloud-player" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=
-https://soundcloud.com/alex-perusse/11-seacompression-2022-owls&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<iframe class="soundcloud-player" height="166" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/alex-perusse/11-seacompression-2022-owls&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+<iframe class="soundcloud-player" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/alex-perusse/11-seacompression-2022-owls&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 Loren and Zhigalka moodboarded with MidJourney- a tool that Loren has been experimenting with in the sketch phase of their process.
 Then Loren designed and painted the final painting onto the plywood.
@@ -62,8 +65,14 @@ Zhigalka started from old code and added some new patterns for the LED lights.
 <figure class="half" markdown="span">
 ![Mourning Owl complete](https://static.cloudygo.com/static/Seacompression%202022/251%20Mourning%20Owl%20Installed.jpg)
 ![Mourning Owl installed](https://static.cloudygo.com/static/Seacompression%202022/250%20Mourning%20Owl%20Complete.jpg)
-![Mourning Owl Video 1](https://static.cloudygo.com/static/Seacompression%202022/252%20Mourning%20Owl.MOV)
-![Mourning Owl Video 2](https://static.cloudygo.com/static/Seacompression%202022/253%20Mourning%20Owl.MOV)
+<video controls>
+  <source src="https://static.cloudygo.com/static/Seacompression%202022/252%20Mourning%20Owl.MOV">
+  Video of Mourning Owl at Seacompression
+</video>
+<video controls>
+  <source src="https://static.cloudygo.com/static/Seacompression%202022/253%20Mourning%20Owl.MOV">
+  Another video of Mourning Owl at Seacompression
+</video>
 </figure>
 
 ---
