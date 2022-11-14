@@ -16,8 +16,8 @@ header:
 ### Another Successful Haus Anima Event!
 ---
 
-We showed our new painting, **Mourning Owl**, along with
-Wish Fish (previously [BettaFish](/events/luminata)), and our Jellyfish.
+At Seacompression 2022, we unveiled a new painting, **Mourning Owl** to show alongside
+Wish Fish (previously [BettaFish](/events/luminata)) and our Jellyfish.
 
 [Photo album from Seacompression 2022](https://photos.app.goo.gl/7kjo1Ks7hjJV3gqL8)
 
@@ -55,8 +55,6 @@ The construction of Mourning Owl was inspired by a flat-packed plywood LED piece
 Lilac produced a soundtrack with owl hoots, a sample from Twin Peaks “Owls are not what they seem”, along with all their usual music goodness.
 
 <iframe class="soundcloud-player" height="166" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/alex-perusse/11-seacompression-2022-owls&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-
-<iframe class="soundcloud-player" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/alex-perusse/11-seacompression-2022-owls&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 Loren and Zhigalka moodboarded with MidJourney- a tool that Loren has been experimenting with in the sketch phase of their process.
 Then Loren designed and painted the final painting onto the plywood.
