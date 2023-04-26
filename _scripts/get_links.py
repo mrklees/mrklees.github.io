@@ -11,16 +11,17 @@ def make_links(url_path, paths):
     no_thumbnails = []
 
     for path in paths:
-        url = urllib.parse.quote(os.path.join(BASE_URL, url_path, path))
+        url = os.path.join(BASE_URL, url_path, urllib.parse.quote(path))
 
-        name, ext = os.path.splitext(path.lower())
+        name, ext = os.path.splitext(path)
+        ext = ext.lower()
 
         if ext in (".png", ".jpg"):
             print(f"![{name}]({url})")
         elif ext in (".mov",):
             print(f"""
 <video controls>
-  <source src="{url}"
+  <source src="{url}">
   {name}
 </video>
 """)
