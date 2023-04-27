@@ -8,10 +8,8 @@
 
 figure {
   &.thin {
-    @include breakpoint(min-width $medium) {
         width: 75%;
         margin: auto;
-    }
   }
 
   &.fourth {
