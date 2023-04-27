@@ -8,14 +8,29 @@
 
 figure {
   &.thin {
-        width: 75%;
+    @include breakpoint($large) {
+      width: 75%;
+      margin: auto;
+    }
+  }
+
+  &.half {
+    > a,
+    > img,
+    > video,
+    > div {
+      /* odd, unpaired entries get centered in half */
+      &:nth-child(odd):last-child {
         margin: auto;
+      }
+    }
   }
 
   &.fourth {
     > a,
     > img,
-    > video {
+    > video,
+    > div {
       @include breakpoint($small) {
         width: calc(25% - 0.5em);
       }
