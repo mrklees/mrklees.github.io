@@ -61,8 +61,11 @@ Then Loren designed and painted the final painting onto the plywood.
 Zhigalka started from old code and added some new patterns for the LED lights.
 
 <figure class="half" markdown="span">
-![Mourning Owl complete](https://static.cloudygo.com/static/Seacompression%202022/251%20Mourning%20Owl%20Installed.jpg)
-![Mourning Owl installed](https://static.cloudygo.com/static/Seacompression%202022/250%20Mourning%20Owl%20Complete.jpg)
+![Mourning Owl complete](https://static.cloudygo.com/static/Seacompression%202022/251%20Mourning%20Owl%20Installed.jpg){: style="flex: 1.333; margin-right:0.5em" }
+![Mourning Owl installed](https://static.cloudygo.com/static/Seacompression%202022/250%20Mourning%20Owl%20Complete.jpg){: style="flex: calc(1361/1321); margin-left:0.5em" }
+</figure>
+
+<figure class="half" markdown="span">
 <video controls>
   <source src="https://static.cloudygo.com/static/Seacompression%202022/252%20Mourning%20Owl.MOV">
   Video of Mourning Owl at Seacompression
