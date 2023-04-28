@@ -21,7 +21,8 @@ figure {
     > div {
       /* odd, unpaired entries get centered in half */
       &:nth-child(odd):last-child {
-        margin: auto;
+        margin-left: auto;
+        margin-right: auto;
       }
     }
   }

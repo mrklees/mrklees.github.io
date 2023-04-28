@@ -13,7 +13,7 @@ header:
 
 ---
 
-### The River
+# The River
 ---
 
 One year since Haus Anima's inception at [ReMergence 2022](/events/remergence-wrap)
@@ -123,26 +123,22 @@ Hanging from the curtain were many small black panels covered in geometric mirro
 ![Art board](https://static.cloudygo.com/static/2023-ReIgnition/150%20Art%20Board.jpg)
 </figure>
 
-Part of Haus Anima's core tenet is reveling in the processs of making art with other people. In February
+Part of Haus Anima's core tenet is reveling in the process of making art with other people. In February
 we hosted an mirror art party and invited our Burner friends to come help us make art to be displayed in The River.
 The result was **UNTITLED BOARDS** and **THE UNNAMED**. Their nearby placards announced:
 
-<div>
-<div class="text-center" style="width:50%">
+<div class="text-center">
 <strong>UNTITLED BOARDS</strong><br>
 What we brought along we leave:<br>
 Our passion, joy, time, and dreams.<br>
 The river takes us and we sigh.<br>
 Tiny paradise at last.<br>
-</div>
 <br>
-<div class="text-center" style="width:50%">
 <strong>THE UNNAME</strong><br>
 Created by travelers as they recounted their lives.<br>
 They ask that you linger on each one delicately, as a<br>
 frog would hop from stone to stone— careful not to<br>
 dip its toes in the water of the souls.<br>
-</div>
 </div>
 
 <figure class="half" markdown="span">
@@ -158,7 +154,7 @@ Moving your face close to the bowl reveals various fractured close-up reflection
 ![River Stones](https://static.cloudygo.com/static/2023-ReIgnition/161%20RiverStones.jpg)
 </figure>
 
-In The River a middle curtains separating one pathway from the next. the kaliedoscopic **Hexatunnel** peeks through, pointed at the UV reactive painting Riverstones.
+In The River a middle curtains separating one pathway from the next. The kaleidoscopic **Hexatunnel** peeks through, pointed at the UV reactive painting Riverstones.
 Zhigalka and Loren created Hexatunnel from laser-cut chip board, mirrors, 3D-printed supports, and spray paint. Looking through it to the glowing Riverstones on the other side was a surreal experience.
 
 <figure class="half" markdown="span">
@@ -175,7 +171,7 @@ Kalesta built this infinity mirror in the shape of an eye by painting a thrifted
 ![Infinity Eye](https://static.cloudygo.com/static/2023-ReIgnition/180%20Infinity%20Eye.jpg)
 </figure>
 
-Kalesta created **Tide Pools** only a few days before ReIgnition. She surrounded three mirrors with pearlescent clay and irridescent cellophane.
+Kalesta created **Tide Pools** only a few days before ReIgnition. She surrounded three mirrors with pearlescent clay and iridescent cellophane.
 At ReIgnition, one of the pools was covered in slime allowing guests a unique tactile experience.
 
 
@@ -185,22 +181,26 @@ At ReIgnition, one of the pools was covered in slime allowing guests a unique ta
 
 Part of Loren's costume for ReIgnition included a large angler fish mask. Loren built the base for the mask out of tape, aluminum wire, and foam clay before spray painting it and adding details like scales, fins, and UV-reactive teeth. The eyes were holiday ornaments donated by a friendly neighbor. While not on Loren's head at the event, Angler Fish hung from a hook next to a placard reading: "If you don't see me here... look for me on the other side."
 
-<figure class="third" markdown="span">
-![Anglerfish](https://static.cloudygo.com/static/2023-ReIgnition/190%20Anglerfish.jpg)
+<figure class="half thin" markdown="block">
+<div markdown="span">
 ![Anglerfish](https://static.cloudygo.com/static/2023-ReIgnition/191%20Anglerfish.jpg)
+</div>
+<div markdown="span">
+![Anglerfish](https://static.cloudygo.com/static/2023-ReIgnition/190%20Anglerfish.jpg)
 ![Anglerfish](https://static.cloudygo.com/static/2023-ReIgnition/192%20AnglerFish.jpg)
+</div>
 </figure>
 
 The last piece of the River was Googly Eye Eye. Zhigalka built Googly Eye Eye using an upcycled bicycle wheel mounted onto a 2x4 so that it could spin freely in either direction. They covered the wheel in black poster board and a mylar cutout in the shape of an eye. Then they added dozens of googly eyes in various sizes. When the wheel spins, the googly eyes move in silly directions. We delighted in watching many people playing with this piece, giggling as the wheel spun and the eyes moved.
 
 {::comment} markdown="span" breaks the div, markdown="block" places the img inside a <p> tag, markdown="0" doesn't convert the final ![...], markdown="1" and handconverting the ![...](url) is my workaround {:/}
-<figure class="third" markdown="block">
-<div style="flex:1.72; margin-right:0.5em;" markdown="span">
- ![Googly Eye Eye](https://static.cloudygo.com/static/2023-ReIgnition/200%20Googly%20Eye%20Eye.jpg)
+<figure class="half thin" markdown="block">
+<div style="flex:1.735; margin-right:0.5em;" markdown="span">
  <video controls muted>
    <source src="https://static.cloudygo.com/static/2023-ReIgnition/202%20Google%20Eye%20Eye.MOV">
    Google Eye Eye spinning
  </video>
+ ![Googly Eye Eye](https://static.cloudygo.com/static/2023-ReIgnition/200%20Googly%20Eye%20Eye.jpg)
  </div>
 <div style="flex:2; margin-left:0.5em;" markdown="span">
  ![Googly Eye Eye Quick Fix at the event](https://static.cloudygo.com/static/2023-ReIgnition/201%20Googly%20Eye%20Eye%20Fix.jpg)
@@ -210,12 +210,12 @@ The last piece of the River was Googly Eye Eye. Zhigalka built Googly Eye Eye us
 The River was filled with Lilac's original soundtrack, a piece called "The River Styx", it will eventually be uploaded to their
 <a href="https://soundcloud.com/alex-perusse">soundcloud</a>.
 
-At the event folks left Charon many offerings, we plan to integrate our next art piece, Hades, at Critical.
+At the event folks left Charon many offerings, we plan to integrate these offerings into our next art piece, Hades, at Critical.
 
 <figure class="third" markdown="span">
-![Charon and offerings at the event](https://static.cloudygo.com/static/2023-ReIgnition/251%20Charon%20and%20offerings.jpg)
-![Charon Offering Box after the event](https://static.cloudygo.com/static/2023-ReIgnition/250%20Charon%20Offering%20Box%20Post.jpg)
 ![Charon and Offerings up close](https://static.cloudygo.com/static/2023-ReIgnition/252%20Charon%20and%20Offerings.jpg)
+![Charon Offering Box after the event](https://static.cloudygo.com/static/2023-ReIgnition/250%20Charon%20Offering%20Box%20Post.jpg)
+![Charon and offerings at the event](https://static.cloudygo.com/static/2023-ReIgnition/251%20Charon%20and%20offerings.jpg)
 </figure>
 
 {% include video id="m0EllZMnUik?start=3" provider="youtube" %}
