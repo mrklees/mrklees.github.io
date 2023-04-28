@@ -95,38 +95,26 @@ feature_row:
 <div>
   <p>
     You can join Haus Anima at
-    <a href="https://fremontartscouncil.org/may-day">The FAC's Solstice May Day</a>(April 30th)
+    <a href="https://fremontartscouncil.org/may-day">The FAC's Solstice May Day</a> (April 30th)
     and later at FAC's Solstice Parade!
   </p>
   <p>
-  Over the next few months we'll be busy creating Dream Willow and Hades to pair with
-  <a href="/events/reignition">The River</a> for Critical 2023.
+    Over the next few months we'll be busy creating Dream Willow and Hades to pair with
+    <a href="/events/reignition">The River</a> for Critical 2023.
   </p>
 </div>
 
-<h2 class="archive__subtitle">Seacompression - Decompression in style</h2>
-<div>
-  <p>
-    Haus Anima presented <strong>Mourning Owl</strong>
-    at Seacompression.
-    Read more about it in our <a href="/events/seacompression">post</a> or browse
-    <a href="https://photos.app.goo.gl/7kjo1Ks7hjJV3gqL8">our photo album</a>
-  </p>
-</div>
 
-<h2 class="archive__subtitle">Celebrating the Fall Equinox at Luminata!</h2>
-<div>
-  <p>
-    Haus Anima presented <strong>Interactive Illuminated Betta Fish Sculpture</strong>
-    at <a href="https://fremontartscouncil.org/luminata">Luminata, F.A.C's celebration of the Fall Equinox.</a>
-    Read more about it in our <a href="/events/luminata">post</a> or browse
-    <a href="https://photos.app.goo.gl/3jUfCPXMs2Rhnzkh6">our photo album</a>
-  </p>
+{::comment}
+<h2 class="archive__subtitle">Recent Art and Events</h2>
+<div markdown="block">
+ * **The River** at [ReIgnition](/events/reignition)
+ * **Mourning Owl** at [Seacompression](/events/seacompression)
+ * **Interactive Illuminated Betta Fish Sculpture** at [Luminata](/events/luminata)
 </div>
+{:/}
 
-<br>
-<h3 class="archive__subtitle">Some Haus Anima adventures</h3>
-<br>
+<h3 class="archive__subtitle">Haus Anima Write-ups</h3>
 <div class="index-feature-row">
   {% include feature_row %}
 </div>

@@ -8,10 +8,14 @@ categories:
   - Events
 tags:
   - Events
+header:
+  overlay_color: "#ff1bbb"
+  overlay_image: "https://static.cloudygo.com/static/Flutterfish/3FlutterHung.jpg"
+  teaser: "https://static.cloudygo.com/static/Flutterfish/3FlutterHung_thumb.jpg"
 
 ---
 
-### Flutterfish
+# Flutterfish
 ---
 
 Haus Anima just wrapped up their “Flutterfish” display at the
