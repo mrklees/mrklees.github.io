@@ -34,7 +34,9 @@ Lilac was pulled in to produce some accompanying music.
 **By Moon’s Light** features a tawny owl’s call and soft pond noises over a
 dark ambient track inspired by the sounds of old console games.
 
+<div class="text-center">
 <iframe class="soundcloud-player" height="166" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1314435046&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+</div>
 
 Inspired by the soundtrack Loren spent another day immersed in Lilac’s sound,
 polishing the level: improving the collectables, refining the owl, and subtly adding variance.

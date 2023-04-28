@@ -222,5 +222,7 @@ At the event folks left Charon many offerings, we plan to integrate these offeri
 {% include video id="m0EllZMnUik?start=3" provider="youtube" %}
 
 {::comment}
+<div class="text-center">
 <iframe class="soundcloud-player" height="166" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/alex-perusse/11-seacompression-2022-owls&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+</div>
 {:/}
