@@ -1,0 +1,10 @@
+version: "3.0"
+
+services:
+  dev:
+    image: minimal-mistakes
+    command: ["jekyll", "serve", "--incremental", "--livereload"]
+    ports:
+      - "4000:4000"
+    volumes:
+      - $PWD:/srv/jekyll
