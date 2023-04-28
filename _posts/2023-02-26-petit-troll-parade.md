@@ -9,6 +9,9 @@ categories:
 tags:
   - Events
 
+header:
+  teaser: "https://static.cloudygo.com/static/2023-PetitTroll/powerhouse-floats_thumb.jpg"
+
 ---
 
 Haus Anima joined [Fremont Arts Council](https://fremontartscouncil.org/petit-troll) for their 2023 Petit Troll Parade to celebrate Mardi Gras.

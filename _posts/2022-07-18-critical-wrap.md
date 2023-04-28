@@ -6,6 +6,7 @@ categories:
   - Events
 tags:
   - Events
+
 header:
   overlay_color: "#5e616c"
   overlay_image: https://static.cloudygo.com/static/Critical%202022/CriticalPoster.jpg

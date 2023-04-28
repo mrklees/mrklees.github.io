@@ -3,7 +3,7 @@ version: "3.0"
 services:
   dev:
     image: minimal-mistakes
-    command: ["jekyll", "serve", "--incremental", "--livereload"]
+    command: ["jekyll", "serve", "--livereload"]
     ports:
       - "4000:4000"
     volumes:

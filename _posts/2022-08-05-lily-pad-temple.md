@@ -6,6 +6,7 @@ categories:
   - Art
 tags:
   - Art
+
 header:
   overlay_color: "#336F28"
   overlay_image: https://static.cloudygo.com/static/LilyPad/lilypadtemplebanner.png

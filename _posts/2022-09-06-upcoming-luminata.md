@@ -6,6 +6,10 @@ categories:
   - Events
 tags:
   - Events
+
+header:
+  teaser: "https://static.cloudygo.com/static/2023-PetitTroll/powerhouse-floats_thumb.jpg"
+
 ---
 
 We're going to [Luminata](https://fremontartscouncil.org/luminata) with an
