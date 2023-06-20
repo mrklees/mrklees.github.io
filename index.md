@@ -7,6 +7,14 @@ header:
 excerpt: Exploring beauty through art and sound
 
 feature_row:
+  - title: "DeComposers"
+    alt: "DeComposers @ Solstice Parade"
+    url: "/events/fremont-solstice-parade"
+    image_path: "https://static.cloudygo.com/static/2023-SolsticeParade/Decomposers_at_Parade.jpg"
+    excerpt: "DeComposters at the Fremont Solstice Parade"
+    btn_label: "DeComposters @ Solstice Parade"
+    btn_class: "btn--info"
+
   - title: "ReIgnition"
     alt: "The River @ ReIgnition 2023"
     url: "/events/reignition"
@@ -76,17 +84,6 @@ feature_row:
     image_path: "https://static.cloudygo.com/static/LilyPad/lilypadtemple2.png"
     excerpt: Pixel art and 8-bit adventure!
     btn_label: "Pixel Art and 8-bit sounds!"
-    btn_class: "btn--info"
-
-  - title: "Music and Sounds from Anima"
-    alt: "Anima Haus Logo"
-    url: "/music"
-    image_path: https://static.cloudygo.com/static/Misc/Haus%20Anima%20Fractal_256.jpg
-    excerpt: |
-      A sampling of the sounds we've made here at Anima.
-      <br>
-      A brief history of our musical backgrounds.
-    btn_label: "Listen into the Mood of Haus Anima"
     btn_class: "btn--info"
 
 ---
