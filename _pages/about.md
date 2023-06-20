@@ -54,7 +54,7 @@ We are the creators of the Haus Anima.  We come from a variety of backgrounds an
 
 Our collective includes:
 
-**Loren** - A changeling creature enchanted by the act of effecting tangible marks on the world around them. Their multifaceted mediums weave together themes of nature, intimacy, and myth.
+**Ribbit (Loren)** - A changeling creature enchanted by the act of effecting tangible marks on the world around them. Their multifaceted mediums weave together themes of nature, intimacy, and myth.
 
 **Zhigalka** - A professional artist working largely on the visual side of our A/V art. They love to work in God's programming language, Python.
 
@@ -62,7 +62,7 @@ Our collective includes:
 
 **Li☿️ac** - An alchemist hailing from the deep forests for the Pacific Northwest, Li☿️ac is a student of the cosmos, a musician devoted to the transformative power of sound, and a brewer of mind-bending elixers.
 
-**Skipper** - When they aren't leading party clowns on the high seas, Skipper creates fabulous costumes and sets the atmosphere on the ukulele. 
+**Skipper** - When they aren't leading party clowns on the high seas, Skipper creates fabulous costumes and sets the atmosphere on the ukulele.
 
 Interested in collaborating? We're really excited about working on art of many kinds.  Feel free to reach out to us at [lilac@anima.haus](mailto:lilac@anima.haus?subject=Let's Collaborate!)
 
