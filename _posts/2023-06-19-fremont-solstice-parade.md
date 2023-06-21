@@ -14,7 +14,7 @@ header:
 
 ---
 
-# Decomposers
+# DeComposers
 ---
 
 'We could do that.' It is a simple phrase that always sparks an exciting adventure in Haus Anima. Last year, after attending the Solstice Parade and watching incredibly painted cyclists, bellowing bands, and incredible floats; Someone said, 'yeah, we could do that.' And after a few iterations of what that could look like Kalesta and Kelley took the lead and came up with DeComposers.
@@ -44,7 +44,7 @@ Then we added paper mache and spray foam for texture.
 
 Painting came next and we were immediately delighted at the outcome.
 
-We spent the next several weeks working on our Decomposer costumes: Mushrooms, Beetles, bacteria, isopods, a Beatle, a composer, and a Snail were all made out of recycled material. As always, working with the Fremont Art Council was a delight and the Powerhouse was full of useful items to repurpose to create our costumes.
+We spent the next several weeks working on our DeComposer costumes: Mushrooms, Beetles, bacteria, isopods, a Beatle, a composer, and a Snail were all made out of recycled material. As always, working with the Fremont Art Council was a delight and the Powerhouse was full of useful items to repurpose to create our costumes.
 
 <figure class="third" markdown="span">
 ![Snail Costume @ The Powerhouse](https://static.cloudygo.com/static/2023-SolsticeParade/Costumes-K.jpg)
