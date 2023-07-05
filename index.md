@@ -10,7 +10,7 @@ feature_row:
   - title: "DeComposers"
     alt: "DeComposers @ Solstice Parade"
     url: "/events/fremont-solstice-parade"
-    image_path: "https://static.cloudygo.com/static/2023-SolsticeParade/DeComposers_at_Parade.jpg"
+    image_path: "https://static.cloudygo.com/static/2023-SolsticeParade/Decomposers_at_Parade.jpg"
     excerpt: "DeComposters at the Fremont Solstice Parade"
     btn_label: "DeComposters @ Solstice Parade"
     btn_class: "btn--info"
