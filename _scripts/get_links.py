@@ -25,10 +25,10 @@ def make_links(url_path, photo_dir, paths):
                     h, w, _ = im.shape
                 elif ext in (".mov", ".mp4"):
                     vid = cv2.VideoCapture(os.path.join(photo_dir, path))
-                    h = vid.get(cv2.CAP_PROP_FRAME_HEIGHT)
-                    w = vid.get(cv2.CAP_PROP_FRAME_WIDTH)
+                    h = int(vid.get(cv2.CAP_PROP_FRAME_HEIGHT))
+                    w = int(vid.get(cv2.CAP_PROP_FRAME_WIDTH))
 
-                flex_style = f"style=\"flex: calc({h}/{w}); margin-right: 0.75em;\""
+                flex_style = f"style=\"flex: calc({w}/{h}); margin-right: 0.75em;\""
 
             if ext in (".png", ".jpg"):
                 if pass_num == 0:
