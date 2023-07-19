@@ -3,7 +3,7 @@
 import os
 import sys
 import urllib.parse
-from PIL import Image
+import cv2
 
 BASE_URL = "https://static.cloudygo.com/static/"
 
@@ -11,28 +11,41 @@ def make_links(url_path, photo_dir, paths):
     set_paths = set(paths)
     no_thumbnails = []
 
-    for path in paths:
-        url = os.path.join(BASE_URL, url_path, urllib.parse.quote(path))
+    # two passes one with flex and one without
+    for pass_num in range(2):
+        for path in paths:
+            url = os.path.join(BASE_URL, url_path, urllib.parse.quote(path))
 
-        name, ext = os.path.splitext(path)
-        ext = ext.lower()
+            name, ext = os.path.splitext(path)
+            ext = ext.lower()
 
-        if ext in (".png", ".jpg"):
-            print(f"![{name}]({url})")
-            with Image.open(os.path.join(photo_dir, path)) as im:
-                h, w = im.size
-                print(f"![{name}]({url}){{: style=\"flex: calc({h}/{w}); margin-right: 0.75em;\" }}")
+            if pass_num == 1:
+                if ext in (".png", ".jpg"):
+                    im = cv2.imread(os.path.join(photo_dir, path))
+                    h, w, _ = im.shape
+                elif ext in (".mov", ".mp4"):
+                    vid = cv2.VideoCapture(os.path.join(photo_dir, path))
+                    h = vid.get(cv2.CAP_PROP_FRAME_HEIGHT)
+                    w = vid.get(cv2.CAP_PROP_FRAME_WIDTH)
 
+                flex_style = f"style=\"flex: calc({h}/{w}); margin-right: 0.75em;\""
 
-        elif ext in (".mov", ".mp4"):
-            print(f"""
-<video controls>
-  <source src="{url}">
-  {name}
-</video>
-""")
-        else:
-            print(f"\nUNKNOWN EXTENSION: {ext!r}\n")
+            if ext in (".png", ".jpg"):
+                if pass_num == 0:
+                    print(f"![{name}]({url})")
+                else:
+                    print(f"![{name}]({url}){{: {flex_style} }}")
+
+            elif ext in (".mov", ".mp4"):
+                if pass_num == 0:
+                    print(f"<video controls>\n  <source src=\"{url}\">\n  {name}\n</video>")
+                else:
+                    print(f"<video controls {flex_style} >\n  <source src=\"{url}\">\n  {name}\n</video>")
+            else:
+                print(f"\nUNKNOWN EXTENSION: {ext!r}\n")
+
+        if pass_num == 0:
+            print("\n\n\n" + "-" * 80 + "\n\n\n")
 
 if __name__ == "__main__":
     assert len(sys.argv) == 2, sys.argv
