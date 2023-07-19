@@ -7,6 +7,14 @@ header:
 excerpt: Exploring beauty through art and sound
 
 feature_row:
+  - title: "Critical 2023"
+    alt: "Haus Anima @ Critical"
+    url: "/events/critical"
+    image_path: "https://static.cloudygo.com/static/2023-Critical/401%20Cowpoke%20Prom.jpg"
+    excerpt: "Haus Anima's second year at Critical! More friends, more art, more fun"
+    btn_label: "Haus Anima @ Critical"
+    btn_class: "btn--info"
+
   - title: "DeComposers"
     alt: "DeComposers @ Solstice Parade"
     url: "/events/fremont-solstice-parade"
@@ -22,6 +30,7 @@ feature_row:
     excerpt: Haus Anima presents The River!
     btn_label: "The River @ ReIgnition"
     btn_class: "btn--info"
+
 
   - title: "Petit Troll"
     alt: "2023 Petit Troll Parade and Mardi Gras celebration"
@@ -50,6 +59,7 @@ feature_row:
     btn_label: "See our Seacompression experience!"
     btn_class: "btn--info"
 
+
   - title: "Fall Equinox at Luminata!"
     alt: "BettaFish Sculpture"
     url: "/events/luminata"
@@ -68,7 +78,6 @@ feature_row:
     btn_label: "Read our Critical Summary"
     btn_class: "btn--info"
 
-
   - title: "Remergence 2022"
     alt: "Haus Anima's first public event!"
     url: "/events/remergence-wrap"
@@ -77,6 +86,7 @@ feature_row:
       Space! Collaborative art! Music!
     btn_label: "Read our Remergence Summary"
     btn_class: "btn--info"
+
 
   - title: "Lily Pad Temple under Moon's Light"
     alt: Pixel art and 8-bit adventure!
