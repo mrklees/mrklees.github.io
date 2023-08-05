@@ -7,6 +7,14 @@ header:
 excerpt: Exploring beauty through art and sound
 
 feature_row:
+  - title: "BitF 2023"
+    alt: "Haus Anima in Canada!"
+    url: "/events/BitF"
+    image_path: "https://static.cloudygo.com/static/2023-BitF/330%20Prom.jpg"
+    excerpt: "Haus Anima's goes far north to see new art and hear big sound"
+    btn_label: "Haus Anima in Canada!"
+    btn_class: "btn--info"
+
   - title: "Critical 2023"
     alt: "Haus Anima @ Critical"
     url: "/events/critical"
