@@ -109,13 +109,12 @@ feature_row:
 <h2 class="archive__subtitle">Upcoming events!</h2>
 <div>
   <p>
-    You can join Haus Anima at
-    <a href="https://fremontartscouncil.org/may-day">The FAC's Solstice May Day</a> (April 30th)
-    and later at FAC's Solstice Parade!
+    Lilac and Skipper are at the Big Burn! 3:15 and D with Ultimate Celebration.
+    They are hosting a Party Friday @ 10pm!
   </p>
   <p>
-    Over the next few months we'll be busy creating Dream Willow and Hades to pair with
-    <a href="/events/reignition">The River</a> for Critical 2023.
+    Ribbit, Kalesta, and Zhigalka are leading Luminata Workshops in September
+    <a href="https://myfremont.wildapricot.org/events">Join us!</a>.
   </p>
 </div>
 
