@@ -7,6 +7,14 @@ header:
 excerpt: Exploring beauty through art and sound
 
 feature_row:
+  - title: "POI"
+    alt: "Making our own poi!"
+    url: "/art/poi"
+    image_path: "https://static.cloudygo.com/static/2023-FlowToys/Making%20fire%20POI.jpg"
+    excerpt: "Several adventures in sewing and cutting our own flow toys."
+    btn_label: "Flow Toys"
+    btn_class: "btn--info"
+
   - title: "BitF 2023"
     alt: "Haus Anima in Canada!"
     url: "/events/BitF"
@@ -109,12 +117,7 @@ feature_row:
 <h2 class="archive__subtitle">Upcoming events!</h2>
 <div>
   <p>
-    Lilac and Skipper are at the Big Burn! 3:15 and D with Ultimate Celebration.
-    They are hosting a Party Friday @ 10pm!
-  </p>
-  <p>
-    Ribbit, Kalesta, and Zhigalka are leading Luminata Workshops in September
-    <a href="https://myfremont.wildapricot.org/events">Join us!</a>.
+    Luminata on the 23rd! At Greenlake! <a href="https://myfremont.wildapricot.org/events">Join us!</a>.
   </p>
 </div>
 

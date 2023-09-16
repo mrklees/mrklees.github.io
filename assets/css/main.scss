@@ -29,7 +29,7 @@ figcaption .mfp-title {
     // Make images square in in a row
     @include breakpoint($large) {
         height: 0;
-        padding-bottom: 100%;
+        padding-bottom: 70%;
     }
 }
 
