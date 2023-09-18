@@ -7,6 +7,12 @@
 
 
 figure {
+  /* Extends logic in _sass/minimal-mistakes/_base.scss */
+
+  @media (max-width: $small) {
+    flex-direction: column;
+  }
+
   &.thin {
     @include breakpoint($large) {
       width: 75%;
