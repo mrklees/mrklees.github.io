@@ -1,10 +1,4 @@
-/*
-   Media and embeds
-   ========================================================================== */
-
-/* Figures and images */
-
-
+/* Custom scss included from _sass/minimal-mistakes.scss */
 
 figure {
   /* Extends logic in _sass/minimal-mistakes/_base.scss */
@@ -48,3 +42,67 @@ figure {
     }
   }
 }
+
+.gallery figure {
+    margin: 1em;
+}
+
+.mfp-figure .mfp-close {
+    padding-top: 0.25em;
+    font-size: 300%;
+}
+
+figcaption .mfp-bottom-bar .mfp-title,
+figcaption .mfp-bottom-bar .mfp-counter {
+    font-size: 200%;
+    padding-top: 0.5em;
+}
+
+figcaption .mfp-title {
+    padding-right: 2.5em;
+}
+
+.index-feature-row {
+  .feature__wrapper .archive__item-teaser {
+    // Make images square in in a row
+    @include breakpoint($large) {
+        display: flex;
+        align-items: center;
+        aspect-ratio: 4 / 3;
+        overflow: hidden;
+    }
+
+    img {
+        border-radius: $border-radius;
+    }
+  }
+
+  .btn--primary {
+    color: #223;
+  }
+}
+
+
+.soundcloud-player {
+    // On small screens use 100% width
+    width: 100%;
+
+    @include breakpoint($large) {
+        width: 50%;
+    }
+}
+
+@include breakpoint(min-width $medium) {
+   .half-width-videos .responsive-video-container {
+        display: inline-block;
+
+        width: calc(50% - 1em);
+        // This is used to control their aspect ratio
+        padding-bottom: calc(28.25% - 1em);
+   }
+
+   .half-width-videos .responsive-video-container:not(:first-child) {
+        margin-left: 1em;
+   }
+}
+
