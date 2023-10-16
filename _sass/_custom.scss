@@ -3,14 +3,15 @@
 figure {
   /* Extends logic in _sass/minimal-mistakes/_base.scss */
 
-  &:not(.half) {
-    @media (max-width: $small) {
+  // Two wide (e.g. half) on mobile but not three wide.
+  &.half {
+    @media (max-width: $x-small) {
       flex-direction: column;
     }
   }
 
-  &.half {
-    @media (max-width: $x-small) {
+  &:not(.half) {
+    @media (max-width: $small) {
       flex-direction: column;
     }
   }
