@@ -6,3 +6,5 @@ main:
     url: /blog/
   - title: "Music"
     url: /music/
+  - title: "Events"
+    url: /tags/

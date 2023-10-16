@@ -10,7 +10,7 @@ feature_row:
   - title: "POI"
     alt: "Making our own poi!"
     url: "/art/poi"
-    image_path: "https://static.cloudygo.com/static/2023-FlowToys/Making%20fire%20POI.jpg"
+    image_path: "https://static.cloudygo.com/static/2023-FlowToys/POI Header.jpg"
     excerpt: "Several adventures in sewing and cutting our own flow toys."
     btn_label: "Flow Toys"
     btn_class: "btn--info"
