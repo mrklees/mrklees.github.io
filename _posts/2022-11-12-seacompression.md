@@ -2,6 +2,8 @@
 title: "Seacompression 2022 - Haus Anima - Mourning Owl"
 excerpt: "Haus Anima unveils Mourning Owl at Seacompression"
 
+permalink: /events/2022-seacompression/
+
 categories:
   - Events
 tags:

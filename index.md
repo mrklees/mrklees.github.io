@@ -7,6 +7,15 @@ header:
 excerpt: Exploring beauty through art and sound
 
 feature_row:
+  - title: "Seacompression!"
+    alt: "Seacompression 2023"
+    url: "/events/2023-seacompression"
+    image_path: "https://static.cloudygo.com/static/2023-Seacompression/Haus Anima at event.jpg"
+    excerpt: |
+      Death, Ears, Curio, Sound, and More!
+    btn_label: "So Much New Art!"
+    btn_class: "btn--info"
+
   - title: "POI"
     alt: "Making our own poi!"
     url: "/art/poi"
@@ -22,6 +31,7 @@ feature_row:
     excerpt: "Haus Anima's goes far north to see new art and hear big sound"
     btn_label: "Haus Anima in Canada!"
     btn_class: "btn--info"
+
 
   - title: "Critical 2023"
     alt: "Haus Anima @ Critical"
@@ -68,7 +78,7 @@ feature_row:
 
   - title: "Seacompression!"
     alt: "Mourning Owl at World's End Faire"
-    url: "/events/seacompression"
+    url: "/events/2022-seacompression"
     image_path: "https://static.cloudygo.com/static/Seacompression 2022/100 Worlds End Faire_thumbnail.jpg"
     excerpt: |
       Haus Anima unveils our Mourning Owl experience!
@@ -103,21 +113,21 @@ feature_row:
     btn_label: "Read our Remergence Summary"
     btn_class: "btn--info"
 
+#  - title: "Lily Pad Temple under Moon's Light"
+#    alt: Pixel art and 8-bit adventure!
+#    url: "art/lily-pad-temple/"
+#    image_path: "https://static.cloudygo.com/static/LilyPad/lilypadtemple2.png"
+#    excerpt: Pixel art and 8-bit adventure!
+#    btn_label: "Pixel Art and 8-bit sounds!"
+#    btn_class: "btn--info"
 
-  - title: "Lily Pad Temple under Moon's Light"
-    alt: Pixel art and 8-bit adventure!
-    url: "art/lily-pad-temple/"
-    image_path: "https://static.cloudygo.com/static/LilyPad/lilypadtemple2.png"
-    excerpt: Pixel art and 8-bit adventure!
-    btn_label: "Pixel Art and 8-bit sounds!"
-    btn_class: "btn--info"
 
 ---
 
 <h2 class="archive__subtitle">Upcoming events!</h2>
 <div>
   <p>
-    Luminata on the 23rd! At Greenlake! <a href="https://myfremont.wildapricot.org/events">Join us!</a>.
+    Haus Anima's 2023 Festival and Art season is over. Look forward to seeing everyone in 2024.
   </p>
 </div>
 
