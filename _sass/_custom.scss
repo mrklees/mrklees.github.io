@@ -3,8 +3,16 @@
 figure {
   /* Extends logic in _sass/minimal-mistakes/_base.scss */
 
-  @media (max-width: $small) {
-    flex-direction: column;
+  &:not(.half) {
+    @media (max-width: $small) {
+      flex-direction: column;
+    }
+  }
+
+  &.half {
+    @media (max-width: $x-small) {
+      flex-direction: column;
+    }
   }
 
   &.thin {

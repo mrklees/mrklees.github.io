@@ -238,7 +238,7 @@ figure {
     > img,
     > video,
     > div {
-      @include breakpoint($small) {
+      @include breakpoint($x-small) {
         width: calc(50% - 0.5em);
         min-width: 0;
       }
