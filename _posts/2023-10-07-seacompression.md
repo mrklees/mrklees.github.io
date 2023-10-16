@@ -11,8 +11,8 @@ tags:
 
 header:
   overlay_color: "#615e6c"
-  overlay_image: https://static.cloudygo.com/static/Seacompression%202022/250%20Mourning%20Owl%20Complete.jpg
-  teaser: https://static.cloudygo.com/static/Seacompression%202022/250%20Mourning%20Owl%20Complete.jpg
+  overlay_image: https://static.cloudygo.com/static/2023-Seacompression/Haus%20Anima%20-%20Dream%20willow%20and%20Death.jpg
+  teaser: https://static.cloudygo.com/static/2023-Seacompression/Haus%20Anima%20-%20Dream%20willow%20and%20Death.jpg
 
 ---
 
@@ -53,39 +53,44 @@ Haus Anima's second Seacompression. This year we went into the event excited abo
   ![Haus Anima - Dream Willow](https://static.cloudygo.com/static/2023-Seacompression/Haus%20Anima%20-%20Dream%20Willow.jpg){: style="flex: calc(4032/3024); margin-right: 0.75em;" }
 </figure>
 
-## Art Visibility
+## Artistic Vision
 
-
-**Skipper** was an event lead for SeaCompression Art Vision, working to create signage and thematic ambiance at the event. Several days before the event all of Haus Anima showed up and help paint signs that were spread all over the event.
+**Skipper** was an event lead for SeaCompression Artistic Vision, working to create signage and thematic ambiance at the event. Several days before the event all of Haus Anima showed up and help paint signs that were spread all over the event.
 
 <p class="text-center" markdown="span">
-Signage for one of the three bars.
+Signage for Gradus Ad Parnassum - one of the three bars.
 </p>
 
-<figure class="third" markdown="span">
+<figure class="third" style="margin:0" markdown="span">
   ![Art Vis - Bar Sign assembled](https://static.cloudygo.com/static/2023-Seacompression/Art%20Vis%20-%20Bar%20Sign%20assembled.jpg){: style="flex: calc(4032/3024); margin-right: 0.75em;" }
   ![Art Vis - Rams](https://static.cloudygo.com/static/2023-Seacompression/Art%20Vis%20-%20Rams.jpg){: style="flex: calc(3024/4032); margin-right: 0.75em;" }
   ![Art Vis - Snakes](https://static.cloudygo.com/static/2023-Seacompression/Art%20Vis%20-%20Snakes.jpg){: style="flex: calc(3024/4032); margin-right: 0.75em;" }
 </figure>
 
+<p class="text-center" markdown="span">
+Signage for two more bars
+</p>
 
-The second bar got a circus themed sign touting a lion. The Other Worldly Bar was Coraline themed. Outside a dozen illuminated crows haunted spooky trees.
-
-<figure class="half" markdown="span">
-![Painting - Kalesta](https://static.cloudygo.com/static/2023-Seacompression/Painting%20-%20Kalesta.jpg)
-![Painting - Kalesta and bar](https://static.cloudygo.com/static/2023-Seacompression/Painting%20-%20Kalesta%20and%20bar.jpg)
+<figure class="third" style="margin:0" markdown="span">
+![Art Vis - Other Worldy Bar](https://static.cloudygo.com/static/2023-Seacompression/Art%20Vis%20-%20Other%20Worldy%20Bar.jpg){: style="flex: calc(627/836); margin-right: 0.75em;" }
+![Art Vis - Other Worldy Bar Banners](https://static.cloudygo.com/static/2023-Seacompression/Art%20Vis%20-%20Other%20Worldy%20Bar%20Banners.jpg){: style="flex: calc(627/836); margin-right: 0.75em;" }
+![Art Vis - Lion](https://static.cloudygo.com/static/2023-Seacompression/Art%20Vis%20-%20Lion.jpg){: style="flex: calc(836/627); margin-right: 0.75em;" }
 </figure>
 
-{::comment}
-<figure class="third" markdown="span">
-![Art Vis - Other Worldy Bar sign](https://static.cloudygo.com/static/2023-Seacompression/Art%20Vis%20-%20Other%20Worldy%20Bar%20sign.jpg)
-![Art Vis - Skll Clowns 2](https://static.cloudygo.com/static/2023-Seacompression/Art%20Vis%20-%20Skll%20Clowns%202.jpg)
+<p class="text-center" markdown="span">
+Decor fabricated for Macabre Magnifique theme
+</p>
+
+<figure style="margin:0" markdown="span">
+![Art Vis - Skll Clowns 2](https://static.cloudygo.com/static/2023-Seacompression/Art%20Vis%20-%20Skll%20Clowns%202.jpg){: style="flex: calc(3024/4032); margin-right: 0.75em;" }
+![Art Vis - Trees](https://static.cloudygo.com/static/2023-Seacompression/Art%20Vis%20-%20Trees.jpg){: style="flex: calc(627/836); margin-right: 0.75em;" }
+![Art Vis - Crows](https://static.cloudygo.com/static/2023-Seacompression/Art%20Vis%20-%20Crows.jpg){: style="flex: calc(836/627); margin-right: 0.75em;" }
+![Art Vis Crows](https://static.cloudygo.com/static/2023-Seacompression/Art%20Vis%20Crows.jpg){: style="flex: calc(627/836); margin-right: 0.75em;" }
 </figure>
-{:/}
 
 ## Cabinet of Curious Creations
 
-Ribbit launched the idea for the Cabinet of Curious Creations. It featured three layers of oddities; the top layer was a caterpillar carousel sculpted by Ribbit, the middle layer featured fluffy clouds and sculptures created by Kalesta, and the bottom cabinet was filled with Zhigalka's nesting cabinets-- 3D printed replicas of the larger cabinet. 
+Ribbit launched the idea for the Cabinet of Curious Creations. It featured three layers of oddities; the top layer was a caterpillar carousel sculpted by Ribbit, the middle layer featured fluffy clouds and sculptures created by Kalesta, and the bottom cabinet was filled with Zhigalka's nesting cabinets-- 3D printed replicas of the larger cabinet.
 
 <figure class="half" markdown="span">
   ![Cabinet - At event](https://static.cloudygo.com/static/2023-Seacompression/Cabinet%20-%20At%20event.jpg){: style="flex: calc(4032/3024); margin-right: 0.75em;" }
@@ -109,7 +114,7 @@ Ribbit launched the idea for the Cabinet of Curious Creations. It featured three
 
 Death was born from Kalesta's love for giant puppets and Zhigalka's desire to do more flat-pack art at Haus Anima. With the project decided, only the details remained. The theme for SeaCompression, Macabre Magnifique, gave a clear direction: Death themself would be our puppet.
 
-Paying homage to the Danse Macabre, Ribbit and Kalesta sclupted a 10 foot tall skeleton with a gilded crown and a sign around their neck reading "May I Have This Dance?". 
+Paying homage to the Danse Macabre, Ribbit and Kalesta sclupted a 10 foot tall skeleton with a gilded crown and a sign around their neck reading "May I Have This Dance?".
 
 
 <figure class="thin half" markdown="span">
@@ -119,9 +124,9 @@ Paying homage to the Danse Macabre, Ribbit and Kalesta sclupted a 10 foot tall s
   </video>
   ![Death - Dancing with Mallori](https://static.cloudygo.com/static/2023-Seacompression/Death%20-%20Dancing%20with%20Mallori.jpg){: style="flex: calc(627/836);"}
 </figure>
-For much of the event Death adorned our frontage, inviting guests to write letters. But for about an hour Death walked around, inviting participants to dance. Kids and adults alike enjoyed answering Death's call to dance. 
+For much of the event Death adorned our frontage, inviting guests to write letters. But for about an hour Death walked around, inviting participants to dance. Kids and adults alike enjoyed answering Death's call to dance.
 
-We can't wait to have Death dance with us again at future events. 
+We can't wait to have Death dance with us again at future events.
 
 <figure class="thin half" markdown="span">
   ![Death - Mail box and letter writing](https://static.cloudygo.com/static/2023-Seacompression/Death%20-%20Mail%20box%20and%20letter%20writing.jpg)
@@ -159,9 +164,13 @@ Lilac is experimenting with non-conventional instrument and interactive sound to
 </figure>
 
 
-**Official Event Photo** Thanks for a wonderful event!
+## Event Photo
 
-![SeaCompression from above](https://static.cloudygo.com/static/2023-Seacompression/SeaCompression%20from%20above.jpg)
+Thanks to everyone involved for such a wonderful event!
+
+This wonderful photo of the event comes from [EspressoBuzz](https://www.espressobuzz.net/Events/2023/Seacompression)
+
+[![SeaCompression from above](https://static.cloudygo.com/static/2023-Seacompression/SeaCompression%20from%20above.jpg)](https://www.espressobuzz.net/Events/2023/Seacompression)
 
 ## Art In Progress
 
@@ -199,4 +208,9 @@ These are some photos of our works of art being created. Feel free to reach out 
 ![Haus Anima - Flowspace and setup](https://static.cloudygo.com/static/2023-Seacompression/Haus%20Anima%20-%20Flowspace%20and%20setup.jpg)
 ![Haus Anima - Dream Willow](https://static.cloudygo.com/static/2023-Seacompression/Haus%20Anima%20-%20Dream%20Willow.jpg)
 ![Haus Anima - Flow Space](https://static.cloudygo.com/static/2023-Seacompression/Haus%20Anima%20-%20Flow%20Space.jpg)
+</figure>
+
+<figure class="half" markdown="span">
+![Painting - Kalesta](https://static.cloudygo.com/static/2023-Seacompression/Painting%20-%20Kalesta.jpg)
+![Painting - Kalesta and bar](https://static.cloudygo.com/static/2023-Seacompression/Painting%20-%20Kalesta%20and%20bar.jpg)
 </figure>
