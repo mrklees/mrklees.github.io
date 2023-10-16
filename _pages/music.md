@@ -7,15 +7,15 @@ layout: single
 
 ---
 
-Anima produces many sounds in many flavors
+Many sounds in different flavors are produced at Haus Anima.
 
 ## Original Productions from Li☿️ac
 
-Lilac's latest single is "Look what you've done to me"
+Try out a recent Lilac's single "Neon Soul"
 
-<iframe class="soundcloud-player" height="166" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1229390245&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<iframe class="soundcloud-player" height="166" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1627922352&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
-Other published music can be found [on Soundcloud.](https://soundcloud.com/alex-perusse)
+Their music can be found [on Soundcloud.](https://soundcloud.com/lilac-anima)
 
 ## Space Sounds
 
@@ -32,8 +32,10 @@ Lilac principally (but not exclusively) uses the following to produce their soun
     * Pigments
     * Diva
     * Massive X
+    * Shaperbox
     * VCV Rack 2
 * Hardware
+    * Moog Matriarch
     * Arturia Minibrute 2
     * Walform Iridium
     * Open Theremin V4
