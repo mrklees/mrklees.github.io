@@ -16,14 +16,11 @@ header:
 
 .portrait {
   border-radius: 50%;
-  outline: 7px solid #666;
+  outline: 7px solid #606;
   margin: calc(7px + 7px);;
   width: 100px;
-  max-width: calc(50% - 14px);
-}
-
-.portrait:nth-of-type(odd) {
-  outline-color: #606;
+  height: auto;
+  max-width: initial;
 }
 
 html .page__hero--overlay {
@@ -54,23 +51,58 @@ We are the creators of the Haus Anima.  We come from a variety of backgrounds an
 
 Our collective includes:
 
-**Ribbit (Loren)** - A changeling creature enchanted by the act of effecting tangible marks on the world around them. Their multifaceted mediums weave together themes of nature, intimacy, and myth.
+<div class="row" style="display: flex; align-items: center; margin: 1em 0;">
+  <div style="margin-right: 1em">
+    <img class="portrait" src="https://static.cloudygo.com/static/Misc/ribbit_profile.jpg" alt="Ribbit" />
+  </div>
+  <div markdown="span">
+    **Ribbit (Loren)** - A changeling creature enchanted by the act of effecting tangible marks on the world around them. Their multifaceted mediums weave together themes of nature, intimacy, and myth.
+  </div>
+</div>
 
-**Zhigalka** - A professional artist working largely on the visual side of our A/V art. They love to work in God's programming language, Python.
+<div class="row" style="display: flex; align-items: center; margin: 1em 0;">
+  <div style="margin-right: 1em">
+    <img class="portrait" src="https://static.cloudygo.com/static/Misc/hummingbird_profile.jpg" alt="Zhigalka" />
+  </div>
+  <div markdown="span">
+    **Zhigalka** - Produces the LEDs, frames, and other supporting infrastructure for our art. They love to work in God's programming language, Python.
+  </div>
+</div>
 
-**Kalesta** - Kalesta is a visual artist who wants to make art accessible and fulfilling for as many people as possible. Creating art with others and facilitating artistic exploration is one of her favorite pastimes. They also enjoy all things mycological, listening to audiobooks at 3x speed, and caring for the small but growing collection of plants in the Haus Anima conservatory.
+<div class="row" style="display: flex; align-items: center; margin: 1em 0;">
+  <div style="margin-right: 1em">
+    <img class="portrait" src="https://static.cloudygo.com/static/Misc/kalesta_profile.jpg" alt="Kalesta" />
+  </div>
+  <div markdown="span">
+    **Kalesta** - Kalesta is a visual artist who wants to make art accessible and fulfilling for as many people as possible. Creating art with others and facilitating artistic exploration is one of her favorite pastimes. They also enjoy all things mycological, listening to audiobooks at 3x speed, and caring for the small but growing collection of plants in the Haus Anima conservatory.
+  </div>
+</div>
 
-**Li☿️ac** - An alchemist hailing from the deep forests for the Pacific Northwest, Li☿️ac is a student of the cosmos, a musician devoted to the transformative power of sound, and a brewer of mind-bending elixers.
+<div class="row" style="display: flex; align-items: center; margin: 1em 0;">
+  <div style="margin-right: 1em">
+    <img class="portrait" src="https://static.cloudygo.com/static/Misc/lilac_profile.jpg" alt="Lilac" />
+  </div>
+  <div markdown="span">
+    **Li☿️ac** - An alchemist hailing from the deep forests for the Pacific Northwest, Li☿️ac is a student of the cosmos, a musician devoted to the transformative power of sound, and a brewer of mind-bending elixers.
+  </div>
+</div>
 
-**Skipper** - When they aren't leading party clowns on the high seas, Skipper creates fabulous costumes and sets the atmosphere on the ukulele.
+<div class="row" style="display: flex; align-items: center; margin: 1em 0;">
+  <div style="margin-right: 1em">
+    <img class="portrait" src="https://static.cloudygo.com/static/Misc/skipper_profile.jpg" alt="Skipper" />
+  </div>
+  <div markdown="span">
+    **Skipper** - When they aren't leading party clowns on the high seas, Skipper creates fabulous costumes and sets the atmosphere on the ukulele.
+  </div>
+</div>
 
 Interested in collaborating? We're really excited about working on art of many kinds.  Feel free to reach out to us at [lilac@anima.haus](mailto:lilac@anima.haus?subject=Let's Collaborate!)
 
 <div class="portrait-row">
+  <img class="portrait" src="https://static.cloudygo.com/static/Misc/skipper_profile.jpg" alt="Skipper" />
   <img class="portrait" src="https://static.cloudygo.com/static/Misc/lilac_profile.jpg" alt="Lilac" />
   <img class="portrait" src="https://static.cloudygo.com/static/Misc/hummingbird_profile.jpg" alt="Zhigalka" />
-  <img class="portrait" src="https://static.cloudygo.com/static/Misc/lilac_profile.jpg" alt="Lilac" />
-  <img class="portrait" src="https://static.cloudygo.com/static/Misc/hummingbird_profile.jpg" alt="Zhigalka" />
-  <img class="portrait" src="https://static.cloudygo.com/static/Misc/lilac_profile.jpg" alt="Lilac" />
+  <img class="portrait" src="https://static.cloudygo.com/static/Misc/ribbit_profile.jpg" alt="Ribbit" />
+  <img class="portrait" src="https://static.cloudygo.com/static/Misc/kalesta_profile.jpg" alt="Kalesta" />
 </div>
 
