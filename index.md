@@ -3,7 +3,7 @@ layout: single
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: https://static.cloudygo.com/static/Critical Theme Camp - Inspiration/Kaylie art brunch.jpg
+  overlay_image: https://static.cloudygo.com/static/Critical Theme Camp - Inspiration/Kalesta art brunch.jpg
 excerpt: Exploring beauty through art and sound
 
 feature_row:

@@ -4,7 +4,5 @@ main:
     url: /about/
   - title: "Blog"
     url: /blog/
-  - title: "Inspiration"
-    url: /inspiration/
   - title: "Music"
     url: /music/
