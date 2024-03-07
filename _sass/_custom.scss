@@ -23,6 +23,13 @@ figure {
     }
   }
 
+  &.halfsingle {
+    @include breakpoint($large) {
+      width: 50%;
+      margin: auto;
+    }
+  }
+
   &.half {
     > a,
     > img,

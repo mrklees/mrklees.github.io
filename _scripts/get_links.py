@@ -42,7 +42,7 @@ def make_links(url_path, photo_dir, paths):
                 else:
                     print(f"<video controls {flex_style} >\n  <source src=\"{url}\">\n  {name}\n</video>")
             else:
-                print(f"\nUNKNOWN EXTENSION: {ext!r}\n")
+                print(f"\nUNKNOWN EXTENSION: {ext!r} from {path!r}\n")
 
         if pass_num == 0:
             print("\n\n\n" + "-" * 80 + "\n\n\n")
