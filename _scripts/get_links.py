@@ -32,9 +32,9 @@ def make_links(url_path, photo_dir, paths):
 
             if ext in (".png", ".jpg"):
                 if pass_num == 0:
-                    print(f"![{name}]({url})")
+                    print(f"![{name}]({url}){{: title=\"{name}\"}}")
                 else:
-                    print(f"![{name}]({url}){{: {flex_style} }}")
+                    print(f"![{name}]({url}){{: title=\"{name}\" {flex_style} }}")
 
             elif ext in (".mov", ".mp4"):
                 if pass_num == 0:
