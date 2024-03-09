@@ -7,6 +7,15 @@ header:
 excerpt: Exploring beauty through art and sound
 
 feature_row:
+  - title: "Dahlia Dreams!"
+    alt: "Dahlia Dreams at FAC Gala 2024"
+    url: "art/events/FAC-gala/"
+    image_path: "https://static.cloudygo.com/static/2024-FAC-GalaA/finished room/Room Complete 1.jpg"
+    excerpt: |
+      Dahlia Dreams for the 2024 FAC Gala
+    btn_label: "Giant Flowers!"
+    btn_class: "btn--info"
+
   - title: "Seacompression!"
     alt: "Seacompression 2023"
     url: "/events/2023-seacompression"
@@ -104,14 +113,14 @@ feature_row:
     btn_label: "Read our Critical Summary"
     btn_class: "btn--info"
 
-  - title: "Remergence 2022"
-    alt: "Haus Anima's first public event!"
-    url: "/events/remergence-wrap"
-    image_path: "https://static.cloudygo.com/static/ReIgnition%202022%20Remergence/IMG_1381_thumb.jpg"
-    excerpt: |
-      Space! Collaborative art! Music!
-    btn_label: "Read our Remergence Summary"
-    btn_class: "btn--info"
+#  - title: "Remergence 2022"
+#    alt: "Haus Anima's first public event!"
+#    url: "/events/remergence-wrap"
+#    image_path: "https://static.cloudygo.com/static/ReIgnition%202022%20Remergence/IMG_1381_thumb.jpg"
+#    excerpt: |
+#      Space! Collaborative art! Music!
+#    btn_label: "Read our Remergence Summary"
+#    btn_class: "btn--info"
 
 #  - title: "Lily Pad Temple under Moon's Light"
 #    alt: Pixel art and 8-bit adventure!
