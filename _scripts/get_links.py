@@ -7,6 +7,8 @@ import cv2
 
 BASE_URL = "https://static.cloudygo.com/static/"
 
+INCLUDE_TITLE = False
+
 def make_links(url_path, photo_dir, paths):
     set_paths = set(paths)
     no_thumbnails = []
@@ -20,6 +22,9 @@ def make_links(url_path, photo_dir, paths):
             ext = ext.lower()
 
             if pass_num == 1:
+                flex_style = ""
+                h, w = 0, 0
+
                 if ext in (".png", ".jpg"):
                     im = cv2.imread(os.path.join(photo_dir, path))
                     h, w, _ = im.shape
@@ -28,13 +33,20 @@ def make_links(url_path, photo_dir, paths):
                     h = int(vid.get(cv2.CAP_PROP_FRAME_HEIGHT))
                     w = int(vid.get(cv2.CAP_PROP_FRAME_WIDTH))
 
-                flex_style = f"style=\"flex: calc({w}/{h}); margin-right: 0.75em;\""
+                if h and w:
+                    flex_style = f"style=\"flex: calc({w}/{h}); margin-right: 0.75em;\""
 
             if ext in (".png", ".jpg"):
-                if pass_num == 0:
-                    print(f"![{name}]({url}){{: title=\"{name}\"}}")
+                if INCLUDE_TITLE:
+                    if pass_num == 0:
+                        print(f"![{name}]({url}){{: title=\"{name}\"}}")
+                    else:
+                        print(f"![{name}]({url}){{: title=\"{name}\" {flex_style} }}")
                 else:
-                    print(f"![{name}]({url}){{: title=\"{name}\" {flex_style} }}")
+                    if pass_num == 0:
+                        print(f"![{name}]({url})")
+                    else:
+                        print(f"![{name}]({url}){{: {flex_style} }}")
 
             elif ext in (".mov", ".mp4"):
                 if pass_num == 0:
