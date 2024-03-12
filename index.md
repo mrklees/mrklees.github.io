@@ -136,7 +136,7 @@ feature_row:
 <h2 class="archive__subtitle">Upcoming events!</h2>
 <div>
   <p>
-    Haus Anima's 2023 Festival and Art season is over. Look forward to seeing everyone in 2024.
+    2024 is upon us! Look for us at May Day, SOAK\*, Critical, Solstice and more.
   </p>
 </div>
 
