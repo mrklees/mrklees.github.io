@@ -7,6 +7,15 @@ header:
 excerpt: Exploring beauty through art and sound
 
 feature_row:
+  - title: "Burning Man 2023 Recap!"
+    alt: "Skipper's reflection on Burning Man 2023"
+    url: "events/BM-recap"
+    image_path: "https://static.cloudygo.com/static/2023-BM-recap/Friendship.jpg"
+    excerpt: |
+      Skipper's reflection on Burning Man
+    btn_label: "Summary!"
+    btn_class: "btn--info"
+
   - title: "Dahlia Dreams!"
     alt: "Dahlia Dreams at FAC Gala 2024"
     url: "art/events/FAC-gala/"
@@ -16,7 +25,7 @@ feature_row:
     btn_label: "Giant Flowers!"
     btn_class: "btn--info"
 
-  - title: "Seacompression!"
+  - title: "Seacompression 2023"
     alt: "Seacompression 2023"
     url: "/events/2023-seacompression"
     image_path: "https://static.cloudygo.com/static/2023-Seacompression/Haus Anima at event.jpg"
@@ -85,7 +94,7 @@ feature_row:
     btn_label: "Flutterfish in the Forest"
     btn_class: "btn--info"
 
-  - title: "Seacompression!"
+  - title: "Seacompression 2022"
     alt: "Mourning Owl at World's End Faire"
     url: "/events/2022-seacompression"
     image_path: "https://static.cloudygo.com/static/Seacompression 2022/100 Worlds End Faire_thumbnail.jpg"
@@ -134,27 +143,14 @@ feature_row:
 ---
 
 <h2 class="archive__subtitle">Upcoming events!</h2>
-<div>
-  <p>
-    2024 is upon us! Look for us at May Day, SOAK\*, Critical, Solstice and more.
-  </p>
-</div>
 
+2024 is upon us! Look for us at May Day, SOAK*, Critical, Solstice and more.
 
-{::comment}
-<h2 class="archive__subtitle">Recent Art and Events</h2>
-<div markdown="block">
- * **The River** at [ReIgnition](/events/reignition)
- * **Mourning Owl** at [Seacompression](/events/seacompression)
- * **Interactive Illuminated Betta Fish Sculpture** at [Luminata](/events/luminata)
-</div>
-{:/}
 
 <h3 class="archive__subtitle">Haus Anima Write-ups</h3>
 <div class="index-feature-row">
   {% include feature_row %}
 </div>
-
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
