@@ -7,6 +7,14 @@ header:
 excerpt: Exploring beauty through art and sound
 
 feature_row:
+  - title: "May Day"
+    alt: "Celebrating May Day"
+    url: "art/events/May-Day"
+    image_path: "https://static.cloudygo.com/static/2024-FAC-May-Day/May%20Pole%20underneath.jpg"
+    excerpt: "Celebrating May Day 2024 with the Fremont Art Council"
+    btn_label: "Summary!"
+    btn_class: "btn--info"
+
   - title: "Burning Man 2023 Recap!"
     alt: "Skipper's reflection on Burning Man 2023"
     url: "events/BM-recap"
@@ -24,6 +32,7 @@ feature_row:
       Dahlia Dreams for the 2024 FAC Gala
     btn_label: "Giant Flowers!"
     btn_class: "btn--info"
+
 
   - title: "Seacompression 2023"
     alt: "Seacompression 2023"
