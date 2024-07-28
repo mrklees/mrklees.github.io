@@ -28,7 +28,7 @@ def make_links(url_path, photo_dir, paths):
                 if ext in (".png", ".jpg"):
                     im = cv2.imread(os.path.join(photo_dir, path))
                     h, w, _ = im.shape
-                elif ext in (".mov", ".mp4"):
+                elif ext in (".mov", ".mp4", ".webm"):
                     vid = cv2.VideoCapture(os.path.join(photo_dir, path))
                     h = int(vid.get(cv2.CAP_PROP_FRAME_HEIGHT))
                     w = int(vid.get(cv2.CAP_PROP_FRAME_WIDTH))
@@ -48,7 +48,7 @@ def make_links(url_path, photo_dir, paths):
                     else:
                         print(f"![{name}]({url}){{: {flex_style} }}")
 
-            elif ext in (".mov", ".mp4"):
+            elif ext in (".mov", ".mp4", ".webm"):
                 if pass_num == 0:
                     print(f"<video controls>\n  <source src=\"{url}\">\n  {name}\n</video>")
                 else:

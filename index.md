@@ -7,6 +7,14 @@ header:
 excerpt: Exploring beauty through art and sound
 
 feature_row:
+  - title: "SOAK* - Electric Ocean"
+    alt: "Attending the Oregon Regional"
+    url: "art/events/soak"
+    image_path: "https://static.cloudygo.com/static/2024-SOAK/IMG_3673.jpg"
+    excerpt: "Festival Fun in Oregon"
+    btn_label: "Haus Anima's SOAK* Adventure"
+    btn_class: "btn--info"
+
   - title: "May Day"
     alt: "Celebrating May Day"
     url: "art/events/May-Day"
@@ -24,6 +32,7 @@ feature_row:
     btn_label: "Summary!"
     btn_class: "btn--info"
 
+
   - title: "Dahlia Dreams!"
     alt: "Dahlia Dreams at FAC Gala 2024"
     url: "art/events/FAC-gala/"
@@ -32,7 +41,6 @@ feature_row:
       Dahlia Dreams for the 2024 FAC Gala
     btn_label: "Giant Flowers!"
     btn_class: "btn--info"
-
 
   - title: "Seacompression 2023"
     alt: "Seacompression 2023"
@@ -59,7 +67,6 @@ feature_row:
     btn_label: "Haus Anima in Canada!"
     btn_class: "btn--info"
 
-
   - title: "Critical 2023"
     alt: "Haus Anima @ Critical"
     url: "/events/critical"
@@ -83,7 +90,6 @@ feature_row:
     excerpt: Haus Anima presents The River!
     btn_label: "The River @ ReIgnition"
     btn_class: "btn--info"
-
 
   - title: "Petit Troll"
     alt: "2023 Petit Troll Parade and Mardi Gras celebration"
@@ -111,7 +117,6 @@ feature_row:
       Haus Anima unveils our Mourning Owl experience!
     btn_label: "See our Seacompression experience!"
     btn_class: "btn--info"
-
 
   - title: "Fall Equinox at Luminata!"
     alt: "BettaFish Sculpture"
