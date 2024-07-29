@@ -15,7 +15,7 @@ You can listen to my music on [SoundCloud](https://soundcloud.com/lilac-anima), 
 
 I principally produce ambient and drum and bass. 
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src=></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/lilac-anima" title="Lilac Anima" target="_blank" style="color: #cccccc; text-decoration: none;">Lilac Anima</a> · <a href="https://soundcloud.com/lilac-anima/sets/chill-vibes" title="Chill Vibes" target="_blank" style="color: #cccccc; text-decoration: none;">Chill Vibes</a></div>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6thVAGRpxKHxbFDLjBdqqy?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
 ## Collaborations with Other Arists
