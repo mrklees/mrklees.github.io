@@ -6,6 +6,7 @@ import urllib.parse
 import cv2
 
 BASE_URL = "https://static.cloudygo.com/static/"
+BASE_URL = "https://static.localhost/static/"
 
 INCLUDE_TITLE = False
 
