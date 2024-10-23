@@ -7,6 +7,14 @@ header:
 excerpt: Exploring beauty through art and sound
 
 feature_row:
+  - title: "Solstice Parade"
+    alt: "Beaky Bird @ the 2024 Fremont Solstice Parade"
+    url: "art/events/solstice"
+    image_path: "https://static.localhost/static/2024-SolsticeParade/Solstice%20all%20birds.jpg"
+    excerpt: "Fremont's Favorite Parade"
+    btn_label: "Solstice Parade"
+    btn_class: "btn--info"
+
   - title: "SOAK* - Electric Ocean"
     alt: "Attending the Oregon Regional"
     url: "art/events/soak"
@@ -23,6 +31,7 @@ feature_row:
     btn_label: "Summary!"
     btn_class: "btn--info"
 
+
   - title: "Burning Man 2023 Recap!"
     alt: "Skipper's reflection on Burning Man 2023"
     url: "events/BM-recap"
@@ -31,7 +40,6 @@ feature_row:
       Skipper's reflection on Burning Man
     btn_label: "Summary!"
     btn_class: "btn--info"
-
 
   - title: "Dahlia Dreams!"
     alt: "Dahlia Dreams at FAC Gala 2024"
@@ -50,6 +58,7 @@ feature_row:
       Death, Ears, Curio, Sound, and More!
     btn_label: "So Much New Art!"
     btn_class: "btn--info"
+
 
   - title: "POI"
     alt: "Making our own poi!"
@@ -136,22 +145,22 @@ feature_row:
     btn_label: "Read our Critical Summary"
     btn_class: "btn--info"
 
-#  - title: "Remergence 2022"
-#    alt: "Haus Anima's first public event!"
-#    url: "/events/remergence-wrap"
-#    image_path: "https://static.cloudygo.com/static/ReIgnition%202022%20Remergence/IMG_1381_thumb.jpg"
-#    excerpt: |
-#      Space! Collaborative art! Music!
-#    btn_label: "Read our Remergence Summary"
-#    btn_class: "btn--info"
+  - title: "Remergence 2022"
+    alt: "Haus Anima's first public event!"
+    url: "/events/remergence-wrap"
+    image_path: "https://static.cloudygo.com/static/ReIgnition%202022%20Remergence/IMG_1381_thumb.jpg"
+    excerpt: |
+      Space! Collaborative art! Music!
+    btn_label: "Read our Remergence Summary"
+    btn_class: "btn--info"
 
-#  - title: "Lily Pad Temple under Moon's Light"
-#    alt: Pixel art and 8-bit adventure!
-#    url: "art/lily-pad-temple/"
-#    image_path: "https://static.cloudygo.com/static/LilyPad/lilypadtemple2.png"
-#    excerpt: Pixel art and 8-bit adventure!
-#    btn_label: "Pixel Art and 8-bit sounds!"
-#    btn_class: "btn--info"
+  - title: "Lily Pad Temple under Moon's Light"
+    alt: Pixel art and 8-bit adventure!
+    url: "art/lily-pad-temple/"
+    image_path: "https://static.cloudygo.com/static/LilyPad/lilypadtemple2.png"
+    excerpt: Pixel art and 8-bit adventure!
+    btn_label: "Pixel Art and 8-bit sounds!"
+    btn_class: "btn--info"
 
 
 ---
