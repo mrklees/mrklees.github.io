@@ -10,7 +10,7 @@ feature_row:
   - title: "Solstice Parade"
     alt: "Beaky Bird @ the 2024 Fremont Solstice Parade"
     url: "art/events/solstice"
-    image_path: "https://static.localhost/static/2024-SolsticeParade/Solstice%20all%20birds.jpg"
+    image_path: "https://static.cloudygo.com/static/2024-SolsticeParade/Solstice%20all%20birds.jpg"
     excerpt: "Fremont's Favorite Parade"
     btn_label: "Solstice Parade"
     btn_class: "btn--info"
