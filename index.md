@@ -7,6 +7,14 @@ header:
 excerpt: Exploring beauty through art and sound
 
 feature_row:
+  - title: "Luminata"
+    alt: "Fire Performance at Luminata"
+    url: "events/2024-luminata/"
+    image_path: "https://static.cloudygo.com/static/2024-Luminata/ProcessionThumbnail.jpg"
+    excerpt: "Fire Performance at Luminata"
+    btn_label: "Luminata"
+    btn_class: "btn--info"
+
   - title: "Solstice Parade"
     alt: "Beaky Bird @ the 2024 Fremont Solstice Parade"
     url: "art/events/solstice"

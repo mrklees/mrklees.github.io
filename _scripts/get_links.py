@@ -25,7 +25,7 @@ def make_links(url_path, photo_dir, paths):
                 flex_style = ""
                 h, w = 0, 0
 
-                if ext in (".png", ".jpg"):
+                if ext in (".png", ".jpg", ".jpeg"):
                     im = cv2.imread(os.path.join(photo_dir, path))
                     h, w, _ = im.shape
                 elif ext in (".mov", ".mp4", ".webm"):
@@ -36,7 +36,7 @@ def make_links(url_path, photo_dir, paths):
                 if h and w:
                     flex_style = f"style=\"flex: calc({w}/{h}); margin-right: 0.75em;\""
 
-            if ext in (".png", ".jpg"):
+            if ext in (".png", ".jpg", ".jpeg"):
                 if INCLUDE_TITLE:
                     if pass_num == 0:
                         print(f"![{name}]({url}){{: title=\"{name}\"}}")
