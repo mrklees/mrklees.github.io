@@ -7,6 +7,14 @@ header:
 excerpt: Exploring beauty through art and sound
 
 feature_row:
+  - title: "2025 May Day"
+    alt: "Celebrating May Day"
+    url: "art/events/2025-May-Day"
+    image_path: "https://static.cloudygo.com/static/2025-FAC-May-Day/Loren%20-%20May%20Day%207874.jpg"
+    excerpt: "May Day with Fremont Art Council and Friends"
+    btn_label: "Summary!"
+    btn_class: "btn--info"
+
   - title: "Luminata"
     alt: "Fire Performance at Luminata"
     url: "events/2024-luminata/"
@@ -23,6 +31,7 @@ feature_row:
     btn_label: "Solstice Parade"
     btn_class: "btn--info"
 
+
   - title: "SOAK* - Electric Ocean"
     alt: "Attending the Oregon Regional"
     url: "art/events/soak"
@@ -33,12 +42,11 @@ feature_row:
 
   - title: "May Day"
     alt: "Celebrating May Day"
-    url: "art/events/May-Day"
+    url: "art/events/2024-May-Day"
     image_path: "https://static.cloudygo.com/static/2024-FAC-May-Day/May%20Pole%20underneath.jpg"
-    excerpt: "Celebrating May Day 2024 with the Fremont Art Council"
+    excerpt: "Celebrating 2024 May Day with the Fremont Art Council"
     btn_label: "Summary!"
     btn_class: "btn--info"
-
 
   - title: "Burning Man 2023 Recap!"
     alt: "Skipper's reflection on Burning Man 2023"
@@ -48,6 +56,7 @@ feature_row:
       Skipper's reflection on Burning Man
     btn_label: "Summary!"
     btn_class: "btn--info"
+
 
   - title: "Dahlia Dreams!"
     alt: "Dahlia Dreams at FAC Gala 2024"
