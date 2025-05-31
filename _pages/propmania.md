@@ -1,6 +1,6 @@
 ---
 permalink: /propmania/
-title: "PropMania"
+title: "Prop Making Fever"
 description: "Haven't meet a prop I wouldn't make"
 tags: Main
 layout: single
@@ -11,28 +11,28 @@ header:
 
 This is a summary of some of the flow props Z and Ribbit have made at Haus Anima.
 
-**2025**
-* [2025 Juggling Poi](#2025-juggling-poi)
-* [2025 Sun Wheel](#2025-sun-wheel)
-* [2025 Silicon Poi Handles](#2025-silicon-poi-handles)
-* [2025 Monkey Fists](#2025-monkey-fists)
-* [2025 Flow Space](#2025-flow-space)
+**2025:**
+[Juggling Poi](#2025-juggling-poi),
+[Sun Wheel](#2025-sun-wheel),
+[Silicon Poi Handles](#2025-silicon-poi-handles),
+[Monkey Fists](#2025-monkey-fists),
+[Flow Space](#2025-flow-space)
 
-**2024**
-* [2024 Staffs](#2024-staffs)
-* [2024 Palm Torches](#2024-palm-torches)
-* [2024 Fire Horse](#2024-fire-horse)
+**2024:**
+[Staffs](#2024-staffs),
+[Palm Torches](#2024-palm-torches),
+[Fire Horse](#2024-fire-horse)
 
 **2023**
-* [2023 Fire Cathedrals](#2023-fire-cathedrals)
-* [2023 POI](#2023-poi)
-* [2023 Juggling Props](#2023-juggling-props)
+[Fire Cathedrals](#2023-fire-cathedrals),
+[POI](#2023-poi),
+[Juggling Props](#2023-juggling-props)
 
 
 
 ## 2025 Juggling Poi
 
-An in progress Z adventure post-SOAK. Thanks to DJ Serious for the retired climbing rope for leashes.
+An in-progress Z adventure post-SOAK. Thanks to DJ Serious for the retired climbing rope for leashes.
 
 <figure class="thin" markdown="span">
 ![2025 Juggling Poi - Core](https://static.cloudygo.com/static/Prop Making/2025%20Juggling%20Poi%20-%20Core.jpg)
