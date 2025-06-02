@@ -7,6 +7,14 @@ header:
 excerpt: Exploring beauty through art and sound
 
 feature_row:
+  - title: "SOAK* - Strange Magic"
+    alt: "Haus Cats, Fire spinning, Squeakers and more!"
+    url: "art/events/2025-soak"
+    image_path: "https://static.cloudygo.com/static/2025-SOAK/Camp%20-%20Flow%20Area.jpg"
+    excerpt: "Festival Fun in Oregon"
+    btn_label: "Haus Anima's SOAK* Adventure"
+    btn_class: "btn--info"
+
   - title: "2025 May Day"
     alt: "Celebrating May Day"
     url: "art/events/2025-May-Day"
@@ -34,7 +42,7 @@ feature_row:
 
   - title: "SOAK* - Electric Ocean"
     alt: "Attending the Oregon Regional"
-    url: "art/events/soak"
+    url: "art/events/2024-soak"
     image_path: "https://static.cloudygo.com/static/2024-SOAK/IMG_3673.jpg"
     excerpt: "Festival Fun in Oregon"
     btn_label: "Haus Anima's SOAK* Adventure"
