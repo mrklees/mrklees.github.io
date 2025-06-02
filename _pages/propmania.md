@@ -20,6 +20,7 @@ This is a summary of some of the flow props Z and Ribbit have made at Haus Anima
 
 **2024:**
 [Staffs](#2024-staffs),
+[Luminata Fire Puppet](#2024-fire-puppet),
 [Palm Torches](#2024-palm-torches),
 [Fire Horse](#2024-fire-horse)
 
@@ -98,7 +99,7 @@ This shows the chain handles from our first poi. Ribbit and Z later braided kevl
 
 ## 2025 Flow Space
 
-Many people have contributed to our flow space. Kalesta found the haunted mirrors, Ribbit and Kalasta painted them matte black. Z designed custom holders. Dozen of props have found a home here.
+Many people have contributed to our flow space. Kalesta found the haunted mirrors, Ribbit and Kalasta painted them matte black. Z designed custom prop holders. Dozen of props have found a home here.
 
 ![2024 Flow Area](https://static.cloudygo.com/static/Prop Making/2024%20Flow%20Area.jpg)
 
@@ -114,6 +115,25 @@ For SOAK 2025 (but in 2024) Ribbit lead a staff meeting. Z printed a lot of unus
 ![2024 Staffs 2](https://static.cloudygo.com/static/Prop Making/2024%20Staffs%202.jpg)
 ![2024 Staffs - 1](https://static.cloudygo.com/static/Prop Making/2024%20Staffs%20-%201.jpg)
 </figure>
+
+## 2024 Fire Puppet
+
+[2024 Luminata Blog post](/2024-luminata/).
+For Luminata, Kalesta and Ribbit choreographed a opening performance with a Sun fire puppet/prop.
+
+
+<figure class="half" markdown="span">
+![2024 Luminata - On Fire](https://static.cloudygo.com/static/Prop Making/2024%20Luminata%20-%20On%20Fire.jpeg)
+</figure>
+
+<figure class="third" markdown="span">
+![2024 Luminata - proposal](https://static.cloudygo.com/static/Prop Making/2024%20Luminata%20-%20proposal.jpg){: style="flex: calc(3024/4032); margin-right: 0.75em;" }
+![2024 Luminata - In progress](https://static.cloudygo.com/static/Prop Making/2024%20Luminata%20-%20In%20progress.jpg){: style="flex: calc(4032/3024); margin-right: 0.75em;" }
+![2024 Luminata - Done](https://static.cloudygo.com/static/Prop Making/2024%20Luminata%20-%20Done.jpg){: style="flex: calc(4032/3024); margin-right: 0.75em;" }
+</figure>
+
+
+Kalesta
 
 ## 2024 Palm Torches
 
