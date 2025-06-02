@@ -81,7 +81,7 @@ Signage for two more bars
 Decor fabricated for Macabre Magnifique theme
 </p>
 
-<figure style="margin:0" markdown="span">
+<figure class="half" style="margin:0" markdown="span">
 ![Art Vis - Skll Clowns 2](https://static.cloudygo.com/static/2023-Seacompression/Art%20Vis%20-%20Skll%20Clowns%202.jpg){: style="flex: calc(3024/4032); margin-right: 0.75em;" }
 ![Art Vis - Trees](https://static.cloudygo.com/static/2023-Seacompression/Art%20Vis%20-%20Trees.jpg){: style="flex: calc(627/836); margin-right: 0.75em;" }
 ![Art Vis - Crows](https://static.cloudygo.com/static/2023-Seacompression/Art%20Vis%20-%20Crows.jpg){: style="flex: calc(836/627); margin-right: 0.75em;" }
