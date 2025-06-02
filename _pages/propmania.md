@@ -105,7 +105,7 @@ Many people have contributed to our flow space. Kalesta found the haunted mirror
 
 ## 2024 Staffs
 
-For SOAK 2025 (but in 2024) Ribbit lead a staff meeting. Z printed a lot of unused 3D joiners.
+For SOAK 2025 Ribbit make two staffs (Ribbit get me photos!).
 
 <figure class="thin" markdown="span">
 ![2024 Staffs - Prep](https://static.cloudygo.com/static/Prop Making/2024%20Staffs%20-%20Prep.jpg)
@@ -133,11 +133,9 @@ For Luminata, Kalesta and Ribbit choreographed a opening performance with a Sun 
 </figure>
 
 
-Kalesta
-
 ## 2024 Palm Torches
 
-Z made the first two sets for Kalesta. Later they made a dozen blanks so any friends could also make a pair.
+Z and Ribbit constructed the first two sets for Kalesta. Later Z made a dozen blanks so any friends could also make a pair.
 
 TBD a finished photo
 
