@@ -33,7 +33,7 @@ This is a summary of some of the flow props Z and Ribbit have made at Haus Anima
 
 ## 2025 Juggling Poi
 
-An in-progress Z adventure post-SOAK. Thanks to DJ Serious for the retired climbing rope for leashes.
+An in-progress Z adventure post-SOAK. Thanks to Andrew for the retired climbing rope for leashes.
 
 <figure class="thin" markdown="span">
 ![2025 Juggling Poi - Core](https://static.cloudygo.com/static/Prop Making/2025%20Juggling%20Poi%20-%20Core.jpg)
