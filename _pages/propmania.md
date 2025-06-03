@@ -137,9 +137,9 @@ For Luminata, Kalesta and Ribbit choreographed a opening performance with a Sun 
 
 Z and Ribbit constructed the first two sets for Kalesta. Later Z made a dozen blanks so any friends could also make a pair.
 
-TBD a finished photo
 
-<figure class="thin" markdown="span">
+<figure class="half" markdown="span">
+![2024 Palm Torch - Final](https://static.cloudygo.com/static/Prop Making/2024%20Palm%20Torch%20-%20Final.jpg)
 ![2024 Palm Torch - Complete Blank](https://static.cloudygo.com/static/Prop Making/2024%20Palm%20Torch%20-%20Complete%20Blank.jpg)
 </figure>
 
