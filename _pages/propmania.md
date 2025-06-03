@@ -36,12 +36,12 @@ This is a summary of some of the flow props Z and Ribbit have made at Haus Anima
 An in-progress Z adventure post-SOAK. Thanks to Andrew for the retired climbing rope for leashes.
 
 <figure class="thin" markdown="span">
-![2025 Juggling Poi - Core](https://static.cloudygo.com/static/Prop Making/2025%20Juggling%20Poi%20-%20Core.jpg)
+![2025 Juggling Poi - Complete](https://static.cloudygo.com/static/Prop Making/2025%20Juggling%20Poi%20-%20Complete.jpg)
 </figure>
 
-<figure class="half" markdown="span">
-![2025 Juggling Poi - Core v0](https://static.cloudygo.com/static/Prop Making/2025%20Juggling%20Poi%20-%20Core%20v0.jpg)
-![2025 Juggling Poi - Core v0 failed](https://static.cloudygo.com/static/Prop Making/2025%20Juggling%20Poi%20-%20Core%20v0%20failed.jpg)
+<figure class="third" markdown="span">
+![2025 Juggling Poi - Molds](https://static.cloudygo.com/static/Prop Making/2025%20Juggling%20Poi%20-%20Molds.jpg){: style="flex: calc(2268/4032); margin-right: 0.75em;" }
+![2025 Juggling Poi - Pour](https://static.cloudygo.com/static/Prop Making/2025%20Juggling%20Poi%20-%20Pour.jpg){: style="flex: calc(4032/2268); margin-right: 0.75em;" }
 </figure>
 
 
