@@ -51,16 +51,16 @@ An in-progress Z adventure post-SOAK. Thanks to Andrew for the retired climbing 
 Just slightly before SOAK* AKA in the car on the way down. Z made this Sun Wheel. Ribbit helped glueing the pex tube and spraypainting.
 
 <figure class="thin" markdown="span">
-![2025 Sun Wheel - v1 complete](https://static.cloudygo.com/static/Prop Making/2025%20Sun%20Wheel%20-%20v1%20complete.jpg)
+![2025 Sun Wheel - v1 complete](https://static.cloudygo.com/static/Prop Making/2025%20Sun%20Wheel%20-%20v1%20complete.jpg){: loading="lazy" }
 </figure>
 
 Z accidentally cut the first ropes at half length. So this ended up being a prototype of the knots.
 
 <figure class="half" markdown="span">
-![2025 Sun Wheel - v0 8](https://static.cloudygo.com/static/Prop Making/2025%20Sun%20Wheel%20-%20v0%208.jpg)
-![2025 Sun Wheel - v0 4](https://static.cloudygo.com/static/Prop Making/2025%20Sun%20Wheel%20-%20v0%204.jpg)
-![2025 Sun Wheel - v0 3](https://static.cloudygo.com/static/Prop Making/2025%20Sun%20Wheel%20-%20v0%203.jpg)
-![2025 Sun Wheel - v0 2](https://static.cloudygo.com/static/Prop Making/2025%20Sun%20Wheel%20-%20v0%202.jpg)
+![2025 Sun Wheel - v0 8](https://static.cloudygo.com/static/Prop Making/2025%20Sun%20Wheel%20-%20v0%208.jpg){: loading="lazy" }
+![2025 Sun Wheel - v0 4](https://static.cloudygo.com/static/Prop Making/2025%20Sun%20Wheel%20-%20v0%204.jpg){: loading="lazy" }
+![2025 Sun Wheel - v0 3](https://static.cloudygo.com/static/Prop Making/2025%20Sun%20Wheel%20-%20v0%203.jpg){: loading="lazy" }
+![2025 Sun Wheel - v0 2](https://static.cloudygo.com/static/Prop Making/2025%20Sun%20Wheel%20-%20v0%202.jpg){: loading="lazy" }
 </figure>
 
 ## 2025 Glowstick Poi
@@ -68,7 +68,7 @@ Z accidentally cut the first ropes at half length. So this ended up being a prot
 Lilac has occasionally had difficulty in taking their props, especially levy wands, into venues. In response she constructed these cute glowstick poi.
 
 <figure class="thin" markdown="span">
-![2025 - Glowstick POI](https://static.cloudygo.com/static/Prop Making/2025%20-%20Glowstick%20POI.jpg)
+![2025 - Glowstick POI](https://static.cloudygo.com/static/Prop Making/2025%20-%20Glowstick%20POI.jpg){: loading="lazy" }
 </figure>
 
 
@@ -77,14 +77,14 @@ Lilac has occasionally had difficulty in taking their props, especially levy wan
 Z got excited about custom silicone molds in 2025 and did a number of projects (crystals, collars, handles) designing models, 3d printing molds, and pouring silicone.
 
 <figure class="half" markdown="span">
-![2025 Silicon Poi Handles - Molds](https://static.cloudygo.com/static/Prop Making/2025%20Silicon%20Poi%20Handles%20-%20Molds.jpg)
-![2025 Silicon Poi Handles - Complete](https://static.cloudygo.com/static/Prop Making/2025%20Silicon%20Poi%20Handles%20-%20Complete.jpg)
+![2025 Silicon Poi Handles - Molds](https://static.cloudygo.com/static/Prop Making/2025%20Silicon%20Poi%20Handles%20-%20Molds.jpg){: loading="lazy" }
+![2025 Silicon Poi Handles - Complete](https://static.cloudygo.com/static/Prop Making/2025%20Silicon%20Poi%20Handles%20-%20Complete.jpg){: loading="lazy" }
 </figure>
 
 Z has printed named molds for many of our flow friends. Samwise mixed this color and we did a joint pour :heart:.
 
 <figure class="half" markdown="span">
-![2025 Silicon Poi Handles - Samwise](https://static.cloudygo.com/static/Prop Making/2025%20Silicon%20Poi%20Handles%20-%20Samwise.jpg)
+![2025 Silicon Poi Handles - Samwise](https://static.cloudygo.com/static/Prop Making/2025%20Silicon%20Poi%20Handles%20-%20Samwise.jpg){: loading="lazy" }
 </figure>
 
 
@@ -95,14 +95,14 @@ Many of our friends have monkey fist heads on their fire poi. After working with
 Z found some plastic (wow right?) cores online and we slowly tightned these up to shape.
 
 <figure class="thin" markdown="span">
-![2025 Monkey Fists - Close up](https://static.cloudygo.com/static/Prop Making/2025%20Monkey%20Fists%20-%20Close%20up.jpg)
+![2025 Monkey Fists - Close up](https://static.cloudygo.com/static/Prop Making/2025%20Monkey%20Fists%20-%20Close%20up.jpg){: loading="lazy" }
 </figure>
 
 This shows the chain handles from our first poi. Ribbit and Z later braided kevlar handled for them.
 
 <figure class="half" markdown="span">
-![2025 Monkey Fists - Wide ](https://static.cloudygo.com/static/Prop Making/2025%20Monkey%20Fists%20-%20Wide%20.jpg){: style="flex: calc(4032/2268); margin-right: 0.75em;" }
-![2025 Monkey Fists - Complete](https://static.cloudygo.com/static/Prop Making/2025%20Monkey%20Fists%20-%20Complete.jpg){: style="flex: calc(2268/4032); margin-right: 0.75em;" }
+![2025 Monkey Fists - Wide ](https://static.cloudygo.com/static/Prop Making/2025%20Monkey%20Fists%20-%20Wide%20.jpg){: style="flex: calc(4032/2268); margin-right: 0.75em;" loading="lazy" }
+![2025 Monkey Fists - Complete](https://static.cloudygo.com/static/Prop Making/2025%20Monkey%20Fists%20-%20Complete.jpg){: style="flex: calc(2268/4032); margin-right: 0.75em;" loading="lazy" }
 </figure>
 
 
@@ -110,19 +110,19 @@ This shows the chain handles from our first poi. Ribbit and Z later braided kevl
 
 Many people have contributed to our flow space. Kalesta found the haunted mirrors, Ribbit and Kalasta painted them matte black. Z designed custom prop holders. Dozen of props have found a home here.
 
-![2024 Flow Area](https://static.cloudygo.com/static/Prop Making/2024%20Flow%20Area.jpg)
+![2024 Flow Area](https://static.cloudygo.com/static/Prop Making/2024%20Flow%20Area.jpg){: loading="lazy" }
 
 ## 2024 Staffs
 
 For SOAK 2025 Ribbit make two staffs (Ribbit get me photos!).
 
 <figure class="thin" markdown="span">
-![2024 Staffs - Prep](https://static.cloudygo.com/static/Prop Making/2024%20Staffs%20-%20Prep.jpg)
+![2024 Staffs - Prep](https://static.cloudygo.com/static/Prop Making/2024%20Staffs%20-%20Prep.jpg){: loading="lazy" }
 </figure>
 
 <figure class="half" markdown="span">
-![2024 Staffs 2](https://static.cloudygo.com/static/Prop Making/2024%20Staffs%202.jpg)
-![2024 Staffs - 1](https://static.cloudygo.com/static/Prop Making/2024%20Staffs%20-%201.jpg)
+![2024 Staffs 2](https://static.cloudygo.com/static/Prop Making/2024%20Staffs%202.jpg){: loading="lazy" }
+![2024 Staffs - 1](https://static.cloudygo.com/static/Prop Making/2024%20Staffs%20-%201.jpg){: loading="lazy" }
 </figure>
 
 ## 2024 Fire Puppet
@@ -132,13 +132,13 @@ For Luminata, Kalesta and Ribbit choreographed a opening performance with a Sun 
 
 
 <figure class="half" markdown="span">
-![2024 Luminata - On Fire](https://static.cloudygo.com/static/Prop Making/2024%20Luminata%20-%20On%20Fire.jpeg)
+![2024 Luminata - On Fire](https://static.cloudygo.com/static/Prop Making/2024%20Luminata%20-%20On%20Fire.jpeg){: loading="lazy" }
 </figure>
 
 <figure class="third" markdown="span">
-![2024 Luminata - proposal](https://static.cloudygo.com/static/Prop Making/2024%20Luminata%20-%20proposal.jpg){: style="flex: calc(3024/4032); margin-right: 0.75em;" }
-![2024 Luminata - In progress](https://static.cloudygo.com/static/Prop Making/2024%20Luminata%20-%20In%20progress.jpg){: style="flex: calc(4032/3024); margin-right: 0.75em;" }
-![2024 Luminata - Done](https://static.cloudygo.com/static/Prop Making/2024%20Luminata%20-%20Done.jpg){: style="flex: calc(4032/3024); margin-right: 0.75em;" }
+![2024 Luminata - proposal](https://static.cloudygo.com/static/Prop Making/2024%20Luminata%20-%20proposal.jpg){: style="flex: calc(3024/4032); margin-right: 0.75em;" loading="lazy" }
+![2024 Luminata - In progress](https://static.cloudygo.com/static/Prop Making/2024%20Luminata%20-%20In%20progress.jpg){: style="flex: calc(4032/3024); margin-right: 0.75em;" loading="lazy" }
+![2024 Luminata - Done](https://static.cloudygo.com/static/Prop Making/2024%20Luminata%20-%20Done.jpg){: style="flex: calc(4032/3024); margin-right: 0.75em;" loading="lazy" }
 </figure>
 
 
@@ -148,18 +148,18 @@ Z and Ribbit constructed the first two sets for Kalesta. Later Z made a dozen bl
 
 
 <figure class="half" markdown="span">
-![2024 Palm Torch - Final](https://static.cloudygo.com/static/Prop Making/2024%20Palm%20Torch%20-%20Final.jpg)
-![2024 Palm Torch - Complete Blank](https://static.cloudygo.com/static/Prop Making/2024%20Palm%20Torch%20-%20Complete%20Blank.jpg)
+![2024 Palm Torch - Final](https://static.cloudygo.com/static/Prop Making/2024%20Palm%20Torch%20-%20Final.jpg){: loading="lazy" }
+![2024 Palm Torch - Complete Blank](https://static.cloudygo.com/static/Prop Making/2024%20Palm%20Torch%20-%20Complete%20Blank.jpg){: loading="lazy" }
 </figure>
 
 <figure class="half" markdown="span">
-![2024 Palm Torch - v1](https://static.cloudygo.com/static/Prop Making/2024%20Palm%20Torch%20-%20v1.jpg){: style="flex: calc(4032/2268); margin-right: 0.75em;" }
-![2024 Palm Torch - Many v4 Blanks](https://static.cloudygo.com/static/Prop Making/2024%20Palm%20Torch%20-%20Many%20v4%20Blanks.jpg){: style="flex: calc(4080/3072); margin-right: 0.75em;" }
+![2024 Palm Torch - v1](https://static.cloudygo.com/static/Prop Making/2024%20Palm%20Torch%20-%20v1.jpg){: style="flex: calc(4032/2268); margin-right: 0.75em;" loading="lazy" }
+![2024 Palm Torch - Many v4 Blanks](https://static.cloudygo.com/static/Prop Making/2024%20Palm%20Torch%20-%20Many%20v4%20Blanks.jpg){: style="flex: calc(4080/3072); margin-right: 0.75em;" loading="lazy" }
 </figure>
 
 <figure class="half" markdown="span">
-![2024 Palm Torches - Prep](https://static.cloudygo.com/static/Prop Making/2024%20Palm%20Torches%20-%20Prep.jpg){: style="flex: calc(1440/1136); margin-right: 0.75em;" }
-![2024 Palm Torches - Kevlar](https://static.cloudygo.com/static/Prop Making/2024%20Palm%20Torches%20-%20Kevlar.jpg){: style="flex: calc(3024/4032); margin-right: 0.75em;" }
+![2024 Palm Torches - Prep](https://static.cloudygo.com/static/Prop Making/2024%20Palm%20Torches%20-%20Prep.jpg){: style="flex: calc(1440/1136); margin-right: 0.75em;" loading="lazy" }
+![2024 Palm Torches - Kevlar](https://static.cloudygo.com/static/Prop Making/2024%20Palm%20Torches%20-%20Kevlar.jpg){: style="flex: calc(3024/4032); margin-right: 0.75em;" loading="lazy" }
 </figure>
 
 
@@ -174,12 +174,12 @@ It holds around a half dozen staffs and poi at the same time.
 V2 is constantly in the work but really is coming soon.
 
 <figure class="thin half" markdown="span">
-![2024 Fire Horse - Complete](https://static.cloudygo.com/static/Prop Making/2024%20Fire%20Horse%20-%20Complete.jpg)
+![2024 Fire Horse - Complete](https://static.cloudygo.com/static/Prop Making/2024%20Fire%20Horse%20-%20Complete.jpg){: loading="lazy" }
 </figure>
 
 <figure class="half" markdown="span">
-![2024 Fire Horse - CNC](https://static.cloudygo.com/static/Prop Making/2024%20Fire%20Horse%20-%20CNC.jpg){: style="flex: calc(2268/4032); margin-right: 0.75em;" }
-![2024 Fire Horse - Clamping](https://static.cloudygo.com/static/Prop Making/2024%20Fire%20Horse%20-%20Clamping.jpg){: style="flex: calc(3480/2268); margin-right: 0.75em;" }
+![2024 Fire Horse - CNC](https://static.cloudygo.com/static/Prop Making/2024%20Fire%20Horse%20-%20CNC.jpg){: style="flex: calc(2268/4032); margin-right: 0.75em;" loading="lazy" }
+![2024 Fire Horse - Clamping](https://static.cloudygo.com/static/Prop Making/2024%20Fire%20Horse%20-%20Clamping.jpg){: style="flex: calc(3480/2268); margin-right: 0.75em;" loading="lazy" }
 </figure>
 
 
@@ -188,12 +188,12 @@ V2 is constantly in the work but really is coming soon.
 Ribbit and Z made these as our first fire props in Oct 2023. One thing we learned was to put the washers one layer inside so you can touch your props more!
 
 <figure class="thin" markdown="span">
-![2023 Fire Poi - Complete](https://static.cloudygo.com/static/Prop Making/2023%20Fire%20Poi%20-%20Complete.jpg)
+![2023 Fire Poi - Complete](https://static.cloudygo.com/static/Prop Making/2023%20Fire%20Poi%20-%20Complete.jpg){: loading="lazy" }
 </figure>
 
 <figure class="half" markdown="span">
-![2023 Fire Poi - Set 1](https://static.cloudygo.com/static/Prop Making/2023%20Fire%20Poi%20-%20Set%201.jpg){: style="flex: calc(1175/881); margin-right: 0.75em;" }
-![2023 Fire Poi - Handles](https://static.cloudygo.com/static/Prop Making/2023%20Fire%20Poi%20-%20Handles.jpg){: style="flex: calc(4032/2268); margin-right: 0.75em;" }
+![2023 Fire Poi - Set 1](https://static.cloudygo.com/static/Prop Making/2023%20Fire%20Poi%20-%20Set%201.jpg){: style="flex: calc(1175/881); margin-right: 0.75em;" loading="lazy" }
+![2023 Fire Poi - Handles](https://static.cloudygo.com/static/Prop Making/2023%20Fire%20Poi%20-%20Handles.jpg){: style="flex: calc(4032/2268); margin-right: 0.75em;" loading="lazy" }
 </figure>
 
 ## 2023 POI
@@ -201,13 +201,13 @@ Ribbit and Z made these as our first fire props in Oct 2023. One thing we learne
 Ribbit made half a dozen sets of ribbon poi after 2023 May Day. Several are black and white with eyes for the Haus, Some are ribbon poi with reclaimed May Day ribbons. The green pair Z made and are EXTRA SUPER long.
 
 <figure class="half" markdown="span">
-![2023 Poi - Complete](https://static.cloudygo.com/static/Prop Making/2023%20Poi%20-%20Complete.jpg){: style="flex: calc(2851/2138); margin-right: 0.75em;" }
-![2025 Loren Poi Overview](https://static.cloudygo.com/static/Prop Making/2025%20Loren%20Poi%20Overview.jpg){: style="flex: calc(4032/2268); margin-right: 0.75em;" }
+![2023 Poi - Complete](https://static.cloudygo.com/static/Prop Making/2023%20Poi%20-%20Complete.jpg){: style="flex: calc(2851/2138); margin-right: 0.75em;" loading="lazy" }
+![2025 Loren Poi Overview](https://static.cloudygo.com/static/Prop Making/2025%20Loren%20Poi%20Overview.jpg){: style="flex: calc(4032/2268); margin-right: 0.75em;" loading="lazy" }
 </figure>
 
 <figure class="half" markdown="span">
-![2023 Poi - in progress](https://static.cloudygo.com/static/Prop Making/2023%20Poi%20-%20in%20progress.jpg){: style="flex: calc(2268/4032); margin-right: 0.75em;" }
-![2023 Poi - Handles](https://static.cloudygo.com/static/Prop Making/2023%20Poi%20-%20Handles.jpg){: style="flex: calc(4032/2268); margin-right: 0.75em;" }
+![2023 Poi - in progress](https://static.cloudygo.com/static/Prop Making/2023%20Poi%20-%20in%20progress.jpg){: style="flex: calc(2268/4032); margin-right: 0.75em;" loading="lazy" }
+![2023 Poi - Handles](https://static.cloudygo.com/static/Prop Making/2023%20Poi%20-%20Handles.jpg){: style="flex: calc(4032/2268); margin-right: 0.75em;" loading="lazy" }
 </figure>
 
 ## 2023 Juggling Props
@@ -215,12 +215,12 @@ Ribbit made half a dozen sets of ribbon poi after 2023 May Day. Several are blac
 A longer discussion of our intro to POI and these props is in [POI](/art/poi).
 
 <figure class="thin" markdown="span">
-![2023 Juggling - Complete 90deg](https://static.cloudygo.com/static/Prop Making/2023%20Juggling%20-%20Complete%2090deg.jpg)
+![2023 Juggling - Complete 90deg](https://static.cloudygo.com/static/Prop Making/2023%20Juggling%20-%20Complete%2090deg.jpg){: loading="lazy" }
 </figure>
 
 <figure class="half" markdown="span">
-![2023 Juggling - stage 1](https://static.cloudygo.com/static/Prop Making/2023%20Juggling%20-%20stage%201.jpg)
-![2023 Juggling - stage 2](https://static.cloudygo.com/static/Prop Making/2023%20Juggling%20-%20stage%202.jpg)
+![2023 Juggling - stage 1](https://static.cloudygo.com/static/Prop Making/2023%20Juggling%20-%20stage%201.jpg){: loading="lazy" }
+![2023 Juggling - stage 2](https://static.cloudygo.com/static/Prop Making/2023%20Juggling%20-%20stage%202.jpg){: loading="lazy" }
 </figure>
 
 <h1 style="text-align: center">
