@@ -14,6 +14,7 @@ This is a summary of some of the flow props Z and Ribbit have made at Haus Anima
 **2025:**
 [Juggling Poi](#2025-juggling-poi),
 [Sun Wheel](#2025-sun-wheel),
+[Glowstick Poi](#2025-glowstick-poi),
 [Silicon Poi Handles](#2025-silicon-poi-handles),
 [Monkey Fists](#2025-monkey-fists),
 [Flow Space](#2025-flow-space)
@@ -60,6 +61,14 @@ Z accidentally cut the first ropes at half length. So this ended up being a prot
 ![2025 Sun Wheel - v0 4](https://static.cloudygo.com/static/Prop Making/2025%20Sun%20Wheel%20-%20v0%204.jpg)
 ![2025 Sun Wheel - v0 3](https://static.cloudygo.com/static/Prop Making/2025%20Sun%20Wheel%20-%20v0%203.jpg)
 ![2025 Sun Wheel - v0 2](https://static.cloudygo.com/static/Prop Making/2025%20Sun%20Wheel%20-%20v0%202.jpg)
+</figure>
+
+## 2025 Glowstick Poi
+
+Lilac has occasionally had difficulty in taking their props, especially levy wands, into venues. In response she constructed these cute glowstick poi.
+
+<figure class="thin" markdown="span">
+![2025 - Glowstick POI](https://static.cloudygo.com/static/Prop Making/2025%20-%20Glowstick%20POI.jpg)
 </figure>
 
 
