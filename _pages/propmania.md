@@ -11,6 +11,8 @@ header:
 
 This is a summary of some of the flow props Z and Ribbit have made at Haus Anima.
 
+We enjoy making and sharing our props with other people at festivals. It's nice for new flow folks to be able to try a bunch of different props searching for one you enjoy.
+
 **2025:**
 [Juggling Poi](#2025-juggling-poi),
 [Sun Wheel](#2025-sun-wheel),
@@ -108,21 +110,22 @@ This shows the chain handles from our first poi. Ribbit and Z later braided kevl
 
 ## 2025 Flow Space
 
-Many people have contributed to our flow space. Kalesta found the haunted mirrors, Ribbit and Kalasta painted them matte black. Z designed custom prop holders. Dozen of props have found a home here.
+Many people have contributed to our shared haus' flow space. Kalesta found the haunted mirrors, Ribbit and Kalasta painted them matte black. Z designed custom prop holders. Dozen of props have found a home here.
 
 ![2024 Flow Area](https://static.cloudygo.com/static/Prop Making/2024%20Flow%20Area.jpg){: loading="lazy" }
 
+At events we tend to have a similiar flow space where anyone can try different props, practice, or learn from us.
+
+![Camp - Flow Area](https://static.cloudygo.com/static/Prop Making/Camp%20-%20Flow%20Area.jpg){: loading="lazy" }
+
+
 ## 2024 Staffs
 
-For SOAK 2025 Ribbit make two staffs (Ribbit get me photos!).
+For SOAK 2025 Ribbit make two communal staffs for our play prop bin with plans for two more.
 
 <figure class="thin" markdown="span">
+![2024 Staffs - Complete](https://static.cloudygo.com/static/Prop Making/2024%20Staffs%20-%20Complete.jpg){: loading="lazy" }
 ![2024 Staffs - Prep](https://static.cloudygo.com/static/Prop Making/2024%20Staffs%20-%20Prep.jpg){: loading="lazy" }
-</figure>
-
-<figure class="half" markdown="span">
-![2024 Staffs 2](https://static.cloudygo.com/static/Prop Making/2024%20Staffs%202.jpg){: loading="lazy" }
-![2024 Staffs - 1](https://static.cloudygo.com/static/Prop Making/2024%20Staffs%20-%201.jpg){: loading="lazy" }
 </figure>
 
 ## 2024 Fire Puppet
