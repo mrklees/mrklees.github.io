@@ -47,7 +47,7 @@ html .page__hero--overlay {
 </div>
 {% endcomment %}
 
-We are the creators of the Haus Anima.  We come from a variety of backgrounds and experiences, but are united in our love of the sensory experience.
+Haus Anima is an art collective in Seattle, Washington centered on interactive art. We regularly participate in Regional Burning Man event, Fremont Art Council events (Solstice Parade, May Day, ...), and a number of other local events. We host a few performance events under the Haus Anima Presents label and several unofficial community spaces.
 
 Our collective includes:
 
@@ -65,7 +65,7 @@ Our collective includes:
     <img class="portrait" src="https://static.cloudygo.com/static/Misc/hummingbird_profile.jpg" alt="Zhigalka" />
   </div>
   <div markdown="span">
-    **Zhigalka** - Produces the LEDs, frames, and other supporting infrastructure for our art. They love to work in God's programming language, Python.
+    **Zhigalka** - Produces the LEDs, frames, and other supporting infrastructure for our art. They love flow and making their own [props](/propmania).
   </div>
 </div>
 
@@ -101,8 +101,8 @@ Interested in collaborating? We're really excited about working on art of many k
 <div class="portrait-row">
   <img class="portrait" src="https://static.cloudygo.com/static/Misc/skipper_profile.jpg" alt="Skipper" />
   <img class="portrait" src="https://static.cloudygo.com/static/Misc/lilac_profile.jpg" alt="Lilac" />
+  <img class="portrait" src="https://static.cloudygo.com/static/Misc/kalesta_profile.jpg" alt="Kalesta" />
   <img class="portrait" src="https://static.cloudygo.com/static/Misc/hummingbird_profile.jpg" alt="Zhigalka" />
   <img class="portrait" src="https://static.cloudygo.com/static/Misc/ribbit_profile.jpg" alt="Ribbit" />
-  <img class="portrait" src="https://static.cloudygo.com/static/Misc/kalesta_profile.jpg" alt="Kalesta" />
 </div>
 
