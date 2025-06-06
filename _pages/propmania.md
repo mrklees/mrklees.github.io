@@ -94,17 +94,15 @@ Z has printed named molds for many of our flow friends. Samwise mixed this color
 
 Many of our friends have monkey fist heads on their fire poi. After working with kevlar rope for the Luminata Sun it felt like a fun adventure.
 
-Z found some plastic (wow right?) cores online and we slowly tightned these up to shape.
+Z found some plastic (wow right?) cores online and we slowly tightned these up to shape. The handles are braided technora with some silicon tape to protect the end closest to the fire.
 
 <figure class="thin" markdown="span">
-![2025 Monkey Fists - Close up](https://static.cloudygo.com/static/Prop Making/2025%20Monkey%20Fists%20-%20Close%20up.jpg){: loading="lazy" }
+![2025 Monkey Fists - Complete](https://static.cloudygo.com/static/Prop Making/2025%20Monkey%20Fists%20-%20Complete%202.jpg){: style="flex: calc(2268/4032); margin-right: 0.75em;" loading="lazy" }
 </figure>
 
-This shows the chain handles from our first poi. Ribbit and Z later braided kevlar handled for them.
-
 <figure class="half" markdown="span">
+![2025 Monkey Fists - Close up](https://static.cloudygo.com/static/Prop Making/2025%20Monkey%20Fists%20-%20Close%20up.jpg){: loading="lazy" }
 ![2025 Monkey Fists - Wide ](https://static.cloudygo.com/static/Prop Making/2025%20Monkey%20Fists%20-%20Wide%20.jpg){: style="flex: calc(4032/2268); margin-right: 0.75em;" loading="lazy" }
-![2025 Monkey Fists - Complete](https://static.cloudygo.com/static/Prop Making/2025%20Monkey%20Fists%20-%20Complete.jpg){: style="flex: calc(2268/4032); margin-right: 0.75em;" loading="lazy" }
 </figure>
 
 
