@@ -7,6 +7,14 @@ header:
 excerpt: Exploring beauty through art and sound
 
 feature_row:
+  - title: "Electric Sky"
+    alt: "Electric Sky Art Camp"
+    url: "art/events/2025-electric-sky"
+    image_path: "https://static.cloudygo.com/static/2025-Electric-Sky/IMG_8452.jpg"
+    excerpt: "Art Hack-a-thon in Skykomish"
+    btn_label: "Quick Camping Trip to the Woods"
+    btn_class: "btn--info"
+
   - title: "SOAK* - Strange Magic"
     alt: "Haus Cats, Fire spinning, Squeakers and more!"
     url: "art/events/2025-soak"
