@@ -7,8 +7,7 @@ layout: single
 
 ---
 
-# Haus Anima
-## Fire Troupe
+## Haus Anima
 
 Insert Demo Performance Here
 
