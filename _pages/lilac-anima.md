@@ -1,10 +1,9 @@
 ---
 permalink: /lilac_anima/
-title: "Fire & Flow Performance for Hire"
+title: "Fire Dancer & Burlesque Performer for Hire"
 description: ""
 tags: Main
 layout: single
-
 ---
 
 ## Lilac Anima
