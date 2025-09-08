@@ -29,9 +29,9 @@ Lilac is individually insured up to 1M.
 
 ## Disciplines
 
-### Fire Dancer
+### Fire Dancer & Flow Performer
 
-Lilac spins Poi & Leviwand, and has props to do that with ribbons, LED, or on fire. 
+Lilac juggles Poi & Leviwand and has props to do that with ribbons, LED, or on fire. 
 
 ### Burlesque
 
