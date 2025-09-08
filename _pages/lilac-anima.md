@@ -17,7 +17,7 @@ Her recent performance at the Garden of Delights Burlesque & Variety show at Cri
 
 ## Who is Lilac?
 
-Lilac is a fire dancer and burlesque performer stunning audiances with her graceful flow.  Lilac has spent the last two years in the Seattle fire scene and regularly performs in Seattle art events and festivals.  She is also a cast member of Haus Anima NeoBurlesque & Variety Show performing a sexy fusion of poi and burlesque. 
+Lilac is a fire dancer and burlesque performer stunning audiances with her graceful flow.  She has spent the last two years in the Seattle juggling scene and regularly performs in Seattle art events and festivals.  She is also a cast member of Haus Anima NeoBurlesque & Variety Show performing a sexy fusion of poi and burlesque. 
 
 ## Contact Us
 

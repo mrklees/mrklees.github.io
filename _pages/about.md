@@ -83,7 +83,7 @@ Our collective includes:
     <img class="portrait" src="https://static.cloudygo.com/static/Misc/lilac_profile.jpg" alt="Lilac" />
   </div>
   <div markdown="span">
-    **Li☿️ac** - An alchemist hailing from the deep forests for the Pacific Northwest, Li☿️ac is a student of the cosmos, a musician devoted to the transformative power of sound, and a brewer of mind-bending elixers.
+    **Li☿️ac** - Li☿️ac is a fire dancer and burlesque performer stunning audiances with her graceful flow.  She has spent the last two years in the Seattle juggling scene and regularly performs in Seattle art events and festivals.  She is also a cast member of Haus Anima NeoBurlesque & Variety Show performing a sexy fusion of poi and burlesque. 
   </div>
 </div>
 
