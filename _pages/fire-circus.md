@@ -1,13 +1,13 @@
 ---
 permalink: /fire/
-title: "Fire & Flow Performance for Hire"
+title: "Flames of Anima Fire Circus"
 description: ""
 tags: Main
 layout: single
 
 ---
 
-## Haus Anima
+## Fire & Flow Performance for Hire
 
 Insert Demo Performance Here
 
