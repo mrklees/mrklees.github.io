@@ -13,7 +13,7 @@ layout: single
     <script async src="//www.instagram.com/embed.js"></script>
 </div>
 
-Her recent performance at the Graden of Delights Burlesque & Variety show at Critical Northwest 2025.
+Her recent performance at the Garden of Delights Burlesque & Variety show at Critical Northwest 2025.
 
 ## Who is Lilac?
 
