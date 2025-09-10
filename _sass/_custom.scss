@@ -122,3 +122,14 @@ figcaption .mfp-title {
    }
 }
 
+container {
+  display: flex; /* Enables Flexbox for layout */
+  justify-content: center; /* Centers content horizontally */
+  align-items: center; /* Centers content vertically */
+  height: 300px; /* Example height to demonstrate vertical centering */
+}
+
+.container img {
+  width: 150px; /* Optional: set image dimensions */
+  height: auto;
+}
