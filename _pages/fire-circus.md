@@ -27,7 +27,7 @@ Each of our performers is individually insured up to 1M.
 
 ### Fire
 <p>
-<img src="https://photos.fife.usercontent.google.com/pw/AP1GczONmKcFB5rhUz1n-V_h2xYvfzoyVxY_0_H6XPEbMNi3wC5PXrp2iIWFlg=w2004-h1336-s-no-gm?authuser=0" alt="Fire Performance" 
+<img src="https://photos.fife.usercontent.google.com/pw/AP1GczONmKcFB5rhUz1n-V_h2xYvfzoyVxY_0_H6XPEbMNi3wC5PXrp2iIWFlg=w2004-h1336-s-no-gm" alt="Fire Performance" 
 style="float:left; height: 80%; width: 80%; object-fit: contain"><span style="vertical-align:bottom">This 
 is one line of text with image on the left side</span>
 </p>
