@@ -108,13 +108,20 @@ Lilac is individually insured up to 1M.
   <tr>    
   <td><img src="https://photos.smugmug.com/Annual/Critical-Northwest/2025/FridayNight/i-qFc8S6m/0/MWgncRw6c93345FSK6j9K3RWF69QdfQZ4h5ZS23Bm/X4/2025-07-18-215744_CNW_3628-X4.jpg" alt="" align="left" /></td>
   <td><img src="https://photos.smugmug.com/Events/2025/DeepPlayaCampout/Burlesque/i-Lx8qQLC/0/KGpMWhZkZBbtxj88swDn44ckN5MjWfF3frndX8NnZ/X4/2025.09.19.211512.DeepPlayaCampout.0472-X4.jpg" alt="" align="center" /></td>
-  <td><img src="https://photos.fife.usercontent.google.com/pw/AP1GczOSbc7tp044f989Ubb_k7kQusTd4VBGiWzhmQ4uOFEFfthGKjR8OqxpFA=w830-h1336-s-no-gm?authuser=0" alt="" align="right"/></td>
+  <td><img src="https://hausanimaphotostore.blob.core.windows.net/photos/2024_H_Daveno_May_Day_Meridian_Park-10.jpg" alt="" align="right"/></td>
   </tr>
 </table>
 
 Lilac spins fire, led, and ribbon poi
 
 ### Burlesque
+
+<table width="100%" border="0">
+  <tr>    
+  <td><img src="https://photos.smugmug.com/Events/2025/DeepPlayaCampout/Burlesque/i-krZTmjb/0/LJVMR2T5CJtk6cTgKcdXpLHQqZMH5gnKVft3hG5Gh/X4/2025.09.19.211641.DeepPlayaCampout.1015-X4.jpg" alt="" align="left" /></td>
+  <td><img src="https://photos.smugmug.com/Events/2025/DeepPlayaCampout/Burlesque/i-tGJSLJP/0/M4B6VLfXjLSDNT5pCLD3SXdqpZwk9mbLF9hdd6MXR/X4/2025.09.19.215602.DeepPlayaCampout.1444-X4.jpg" alt="" align="right"/></td>
+  </tr>
+</table>
 
 Lilac will strip at your event! Her act typically incorporates poi in addition to a stunning outfit. 
 
