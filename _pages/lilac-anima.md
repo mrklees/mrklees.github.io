@@ -104,11 +104,6 @@ Lilac is individually insured up to 1M.
 
 ### Fire Dancer & Flow Performer
 
-<div>
-  <span><img src="https://photos.smugmug.com/Annual/Critical-Northwest/2025/FridayNight/i-qFc8S6m/0/MWgncRw6c93345FSK6j9K3RWF69QdfQZ4h5ZS23Bm/X4/2025-07-18-215744_CNW_3628-X4.jpg" /></span>
-  <span>Lilac spins fire, led, and ribbon poi</span>
-</div>
-
 <table width="100%" border="0">
   <tr>    
   <td><img src="https://photos.smugmug.com/Annual/Critical-Northwest/2025/FridayNight/i-qFc8S6m/0/MWgncRw6c93345FSK6j9K3RWF69QdfQZ4h5ZS23Bm/X4/2025-07-18-215744_CNW_3628-X4.jpg" alt="" align="left" /></td>
@@ -116,6 +111,8 @@ Lilac is individually insured up to 1M.
   <td><img src="https://photos.fife.usercontent.google.com/pw/AP1GczOSbc7tp044f989Ubb_k7kQusTd4VBGiWzhmQ4uOFEFfthGKjR8OqxpFA=w830-h1336-s-no-gm?authuser=0" alt="" align="right"/></td>
   </tr>
 </table>
+
+Lilac spins fire, led, and ribbon poi
 
 ### Burlesque
 
