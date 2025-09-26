@@ -1,12 +1,12 @@
 ---
 permalink: /lilac_anima/
-title: "Fire Dancer & Burlesque Performer for Hire"
+title: "Lilac Anima"
 description: ""
 tags: Main
 layout: single
 ---
 
-## Lilac Anima
+## Fire Dancer & Burlesque Performer
 
 
 
