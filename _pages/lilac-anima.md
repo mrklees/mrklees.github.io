@@ -112,7 +112,7 @@ Lilac is individually insured up to 1M.
   </tr>
 </table>
 
-Lilac spins fire, led, and ribbon poi
+Lilac spins fire, LED, and ribbon poi
 
 ### Burlesque
 
@@ -123,7 +123,7 @@ Lilac spins fire, led, and ribbon poi
   </tr>
 </table>
 
-Lilac will strip at your event! Her act typically incorporates poi in addition to a stunning outfit. 
+Lilac will strip at your event! Her act incorporates poi into the removal of stunning outfits. 
 
 ## Live Performances
 2025 - Deep Playa Conclave - Fire Poi
