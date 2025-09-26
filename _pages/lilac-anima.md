@@ -119,20 +119,36 @@ Lilac spins fire, led, and ribbon poi
 Lilac will strip at your event! Her act typically incorporates poi in addition to a stunning outfit. 
 
 ## Live Performances
-2024 - Critical Northwest Conclave - Fire Poi 
+2025 - Deep Playa Conclave - Fire Poi
 
-2024 - Deep Playa Conclave - Fire Poi 
+2025 - Carnival of Dreams - LED & Fire Poi Burleque
 
-2024 - Twisted Tales Burlesque & Variety Show - LED Poi & Burlesque 
+2025 - Critical Northwest Conclave - Fire Poi
 
-2025 - Winter is a Beach Burlesque & Variety Show - LED Poi & Burlesque 
-
-2025 - Rise and Fall of the Midwest Burlesque & Variety Show - LED Poi & Burlesque 
-
-2025 - Strange Magic Burlesque & Variety Show - LED Poi & Burlesque 
+2025 - Garden of Delights - LED Poi Burlesque 
 
 2025 - SOAK Conclave - Fire Poi
 
-2025 - Garden of Delights Burlesque & Variety Show - LED Poi & Burlesque 
+2025 - Strange Magic - LED Poi Burlesque 
 
-2025 - Critical Northwest Conclave - Fire Poi
+2025 - Rise and Fall of the Midwest - LED Poi Burlesque 
+
+2025 - Winter is a Beach - LED Poi Burlesque 
+
+2024 - Twisted Tales - LED Poi Burlesque 
+
+2024 - Deep Playa Conclave - Fire Poi 
+
+2024 - Critical Northwest Conclave - Fire Poi 
+
+
+
+
+
+
+
+
+
+
+
+
