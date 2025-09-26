@@ -109,6 +109,19 @@ Lilac is individually insured up to 1M.
   <span>Lilac spins fire, led, and ribbon poi</span>
 </div>
 
+div {
+  display: table;
+}
+
+img {
+  vertical-align: middle;
+  display: table-cell;
+}
+span {
+  vertical-align: middle;
+  display: table-cell;
+}
+
 ### Burlesque
 
 Lilac will strip at your event! Her act typically incorporates poi in addition to a stunning outfit. 
