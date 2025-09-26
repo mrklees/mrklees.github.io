@@ -105,7 +105,7 @@ Lilac is individually insured up to 1M.
 ### Fire Dancer & Flow Performer
 
 <div>
-  <span><img src="https://www.espressobuzz.net/Annual/Critical-Northwest/2025/FridayNight/i-qFc8S6m/A" /></span>
+  <span><img src="https://photos.smugmug.com/Annual/Critical-Northwest/2025/FridayNight/i-qFc8S6m/0/MWgncRw6c93345FSK6j9K3RWF69QdfQZ4h5ZS23Bm/X4/2025-07-18-215744_CNW_3628-X4.jpg" /></span>
   <span>Lilac spins fire, led, and ribbon poi</span>
 </div>
 
