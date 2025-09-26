@@ -94,7 +94,7 @@ Lilac is a fire dancer and burlesque performer stunning audiances with her grace
 
 ## Contact Us
 
-Contact Lilac at [lilac@anima.haus](mailto:lilac@anima.haus) to discuss your event and how we could contribute. 
+Contact Lilac at [lilac@anima.haus](mailto:lilac@anima.haus) to discuss your event and how she can light up your event
 
 ## Fully Insured
 
@@ -112,7 +112,7 @@ Lilac is individually insured up to 1M.
   </tr>
 </table>
 
-Lilac spins fire, LED, and ribbon poi
+Lilac's principal focus is as a poi performer.  She spins fire, LED, and ribbon poi depending on the needs of your event. 
 
 ### Burlesque
 
